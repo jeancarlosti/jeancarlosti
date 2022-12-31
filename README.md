@@ -1,16 +1,30 @@
-### Hi there 👋
+## Tinoco : Developer | Product Manager Owner  🧢
+  
+### Skills:
 
-<!--
-**Tinoco/Tinoco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*  ti networking
+*  product building
+*  ti strategy
+*  web development
+*  mobile development
+*  marketing strategy
+*  game development 
 
-Here are some ideas to get you started:
+### Objetives:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*  api management and consummation
+*  regular expressions
+*  massive pagination
+*  data parsing
+*  crawling
+*  optimization
+*  behavioral it intelligence
+*  programmatic designs
+*  distributed artificial intelligence
+*  internacionalization
+
+### Contacts: 
+
+* [`Jean Tinoco Linkedin`](https://www.linkedin.com/in/jeantinocopmo/)
+* [`Jean Tinoco Stackshare`](https://stackshare.io/Ticapsoriginal)
+* [`Jean Tinoco Github`](https://github.com/Tinoco/)
