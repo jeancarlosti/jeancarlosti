@@ -10,7 +10,7 @@
 *  marketing strategy
 *  game development 
 
-### Objetives:
+### Objectives:
 
 *  api management and consummation
 *  regular expressions
@@ -21,7 +21,7 @@
 *  behavioral it intelligence
 *  programmatic designs
 *  distributed artificial intelligence
-*  internacionalization
+*  internationalization
 
 ### Contacts: 
 
