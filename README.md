@@ -28,3 +28,5 @@
 * [`Jean Tinoco Linkedin`](https://www.linkedin.com/in/jeantinocopmo/)
 * [`Jean Tinoco Stackshare`](https://stackshare.io/Ticapsoriginal)
 * [`Jean Tinoco Github`](https://github.com/Tinoco/)
+
+* ['Development 🧶 '](http://177.153.69.76:8000/pt-br/)
