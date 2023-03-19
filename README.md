@@ -30,4 +30,4 @@
 * [`Jean Tinoco Github`](https://github.com/Tinoco/)
 
 * [` 🧢 Ticapsoriginal Professsional Ti Networking 🧢`](https://ticapsoriginal.com/en/ibm/)
-* * [` 🧶 Multissector Intelligence  🧶`](https://desembo.la)
+* [` 🧶 Multissector Intelligence  🧶`](https://desembo.la)
