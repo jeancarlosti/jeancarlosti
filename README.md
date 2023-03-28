@@ -29,5 +29,5 @@
 * [`Jean Tinoco Stackshare`](https://stackshare.io/JeanTinoco/following)
 * [`Jean Tinoco Github`](https://github.com/Tinoco/)
 
-* [` 🧢 Ticapsoriginal Professsional Ti Networking 🧢`](https://ticapsoriginal.com/en/ibm/)
+* [` 🧢 Ticapsoriginal Professsional Ti Networking 🧢`](https://ticapsoriginal.com/)
 * [` 🧶 Multissector Intelligence  🧶`](https://desembo.la)
