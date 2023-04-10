@@ -47,9 +47,9 @@
 | Software Architect | [Jean Tinoco] | [ticaps@ticapsoriginal] |
 | Product Owner      | [Jean Tinoco] | [ticaps@ticapsoriginal] |
 | Scrum Master       | [Jean Tinoco] | [ticaps@ticapsoriginal] |
-| Developer          | [Jean Tinoco] | [ticaps@ticapsoriginal] |
-| Developer          | [Jean Tinoco] | [ticaps@ticapsoriginal] |
-| Database Admin          | [Jean Tinoco] | [ticaps@ticapsoriginal] |
+| Developer Front End| [Jean Tinoco] | [ticaps@ticapsoriginal] |
+| Developer Back End | [Jean Tinoco] | [ticaps@ticapsoriginal] |
+| Database Admin     | [Jean Tinoco] | [ticaps@ticapsoriginal] |
 | Tester             | [Jean Tinoco] | [ticaps@ticapsoriginal] |
 
 ## Responsibilities
@@ -77,7 +77,6 @@
 - [x] Facilitate scrum flow
 - [x] Organize issues demand
 - [x] Define Features Development Priority 
-
 
 
 ### Developer Front End
