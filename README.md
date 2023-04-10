@@ -198,7 +198,7 @@ Sprints based on priority first :
   Twiiter Api V2 
 * Status: On Demand
 * Deciders: [Jean Tinoco]
-* Date: 
+
 
 ## Context and use
 
