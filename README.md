@@ -156,7 +156,8 @@ Below is the table of important events.
 | [`Django`](https://www.djangoproject.com) | [4.0] | [Yes] |
 | [`Sqlite3`](https://sqlite.org/index.html) | [Latest] | [Yes] |
 | [`Rockylinux`](https://rockylinux.org) | [9.0] | [Yes] |
-| [`Gunicorn`](https://gunicorn.org) | [Latest] | [Yes] |
+| [`Bulma Css`](https://bulma.io) | [0.9.4] | [Yes] |
+| [`Gunicorn`](https://gunicorn.org) | [20.0.1] | [Yes] |
 | [`Nginx`](https://www.nginx.com) | [1.22] | [Yes] |
 | [`Pypi Packages`](https://pypi.org) | [Requireds] | [Yes] |
 
@@ -240,12 +241,12 @@ Many features can be solved in Front End side, Back End Side, Server Side, Datab
 ## Suggested Solution
 Front End side solve Feature implementation or issue if :
 * Its about Responsive Rules 
-* Can be solved with Registers or filters on Template 
+* Can be solved with [`Registers or filters`](https://docs.djangoproject.com/en/4.2/ref/templates/builtins/) on Template 
 * Changes data presentation values 
 * Change Template Improve SEO Score 
-* Improve Performance using CSS patterns or [`SVG`](https://www.w3.org/Graphics/SVG/) types
+* Improve Performance using [`CSS`](https://www.w3schools.com/css/) patterns or [`SVG`](https://www.w3.org/Graphics/SVG/) types
 * Animated Buttons or transitions Improve Performance 
-* Manipulate DOM opening 
+* Manipulate [`DOM`](https://www.w3.org/TR/WD-DOM/introduction.html) opening 
 * Improve Crawling operations
 
 # Back End management
