@@ -108,15 +108,10 @@
 
 ### Devops
 
-- [x] Works with deploys 
-- [x] Works with Infra
-- [x] Calculate Scalability Server Side
-
-### Devops
-
 - [x] Works with deploys
 - [x] Works with Server Operational System
 - [x] Manage Environments
+- [x] Calculate Scalability Server Side
 
 ### Tester
 
