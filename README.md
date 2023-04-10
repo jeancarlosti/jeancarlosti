@@ -115,10 +115,10 @@
 
 ### Tester
 
-- [x] Works with Codestyle tests
+- [x] Works with [`Codestyle tests`](https://pypi.org/project/pycodestyle/)
 - [x] Works with Performance tests
 - [x] Works with SEO tests
-- [x] Works behavior tests
+- [x] Works [`behavior tests`](https://github.com/behave/behave)
 
 
 # Engineering  Introduction
@@ -166,7 +166,7 @@ Worker developer have tools mentioned here installed on their machine.
 
 ## Cli command-line configuration
 
-Configured bash, Shell and  Zsh shortcut and alias files. 
+Configured [`bash`](https://www.gnu.org/software/bash/), Shell and  Zsh shortcut and alias files. 
 
 # Accounts
 
@@ -206,7 +206,7 @@ Ticapsoriginal tries to store consumed data whenever requested. Consummations ar
 
 ## Considered Options
 
-1) New Profile Joined to Networking 
+1) New Profile company or service Joined to Networking 
 2) More fields on Db or new Data Type
 3) Data need for using clustering algorithm and relationships Ticapsoriginal Backend side
 
@@ -243,7 +243,7 @@ Front End side solve Feature implementation or issue if :
 * Can be solved with Registers or filters on Template 
 * Changes data presentation values 
 * Change Template Improve SEO Score 
-* Improve Performance using CSS patterns or SVG types
+* Improve Performance using CSS patterns or [`SVG`](https://www.w3.org/Graphics/SVG/) types
 * Animated Buttons or transitions Improve Performance 
 * Manipulate DOM opening 
 * Improve Crawling operations
