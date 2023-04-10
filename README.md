@@ -288,7 +288,7 @@ Database Admin  side solve Feature implementation or issue if :
 * Improve Crawling operations
 * Improve value of Data
 
-## Ticapsoriginal Software Flow
+# Ticapsoriginal Software Flow
 
 ![](https://ticapsoriginal.com/static/software.png)
 
