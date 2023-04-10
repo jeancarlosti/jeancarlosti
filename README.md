@@ -288,6 +288,8 @@ Database Admin  side solve Feature implementation or issue if :
 * Improve Crawling operations
 * Improve value of Data
 
+![](https://ticapsoriginal.com/static/software.png)
+
 
 # Ticapsoriginal Delivery Metrics
 
