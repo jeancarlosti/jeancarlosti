@@ -111,6 +111,7 @@
 - [x] Works with Server Operational System
 - [x] Manage Environments
 - [x] Calculate Scalability Server Side
+- [x] [`Check System Integrity`](https://access.redhat.com/documentation/pt-br/red_hat_enterprise_linux/7/html/security_guide/sec-using-aide)
 
 ### Tester
 
@@ -144,20 +145,20 @@ Below is the table of important events.
 
 | Tool               | Version   | Required       |
 | ------------------ | --------- | -------------- |
-| [Google Page Insights] | [Latest] | [Yes] |
-| [Ahrefs Extensions] | [Latest] | [Yes] |
-| [Vim] | [Latest] | [Yes] |
-| [Sublime Text] | [Latest] | [Yes] |
-| [Browsers ] | [Latest] | [Yes] |
+| [`Google Page Insights`](https://pagespeed.web.dev) | [Latest] | [Yes] |
+| [`Ahrefs Extensions`](https://ahrefs.com) | [Latest] | [Yes] |
+| [`Vim`](https://www.vim.org) | [Latest] | [Yes] |
+| [`Sublime Text`](https://www.sublimetext.com) | [Latest] | [Yes] |
+| [Browsers] | [Latest] | [Yes] |
 | [Terminal] | [Latest] | [Yes] |
-| [Zsh] | [Latest] | [Yes] |
-| [Python] | [3.8] | [Yes] |
-| [Django] | [4.0] | [Yes] |
-| [Sqlite3] | [Latest] | [Yes] |
-| [Rocklinux] | [9.0] | [Yes] |
-| [Gunicorn] | [Latest] | [Yes] |
-| [Nginx] | [1.22] | [Yes] |
-| [Pypi Packages] | [Requireds] | [Yes] |
+| [`Zsh`](https://ohmyz.sh) | [Latest] | [Yes] |
+| [`Python`](https://www.python.org) | [3.8] | [Yes] |
+| [`Django`](https://www.djangoproject.com) | [4.0] | [Yes] |
+| [`Sqlite3`](https://sqlite.org/index.html) | [Latest] | [Yes] |
+| [`Rockylinux`](https://rockylinux.org) | [9.0] | [Yes] |
+| [`Gunicorn`](https://gunicorn.org) | [Latest] | [Yes] |
+| [`Nginx`](https://www.nginx.com) | [1.22] | [Yes] |
+| [`Pypi Packages`](https://pypi.org) | [Requireds] | [Yes] |
 
 # Development Environment
 
@@ -171,9 +172,9 @@ Configured bash, Shell and  Zsh shortcut and alias files.
 
 | Service     | Details                                   | Required |
 | ----------- | ----------------------------------------- | -------- |
-| [Twitter] | [Social Acount of Ticapsoriginal ] | [Yes] |
-| [GSC] | [Google Search Console ] | [Yes] |
-| [BING] | [Bing Web Master Tool ] | [Yes] |
+| [`Twitter`](https://twitter.com/ticapsoriginal) | [Social Acount of Ticapsoriginal ] | [Yes] |
+| [`GSC`](https://search.google.com/search-console/about) | [Google Search Console ] | [Yes] |
+| [`BING`](https://www.bing.com/webmasters/home) | [Bing Web Master Tool ] | [Yes] |
 
 # Development Process
 
@@ -193,8 +194,8 @@ Sprints based on priority first :
 
 # Microservices consummation
  
-  Twiiter Api V1 
-  Twiiter Api V2 
+  [`Twiiter Api V1`](https://developer.twitter.com/en/docs/twitter-api/v1) 
+  [`Twiiter Api V2`](https://developer.twitter.com/en/docs/twitter-api) 
 * Status: On Demand
 * Deciders: [Jean Tinoco]
 
