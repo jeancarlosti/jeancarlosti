@@ -239,7 +239,7 @@ Many features can be solved in Front End side, Back End Side, Server Side, Datab
 ## Suggested Solution
 Front End side solve Feature implementation or issue if :
 * Its about Responsive Rules 
-* Can be solved with Registers on Template 
+* Can be solved with Registers or filters on Template 
 * Changes data presentation values 
 * Change Template Improve SEO Score 
 * Improve Performance using CSS patterns or SVG types
