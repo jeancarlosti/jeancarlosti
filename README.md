@@ -71,6 +71,7 @@
 
 - [x] Works with customer to define product backlog or related
 - [x] Acts as a point of contact for the team for any business requirement clarifications
+- [x] Works to make better product and business expansion including global operations 
 
 ### Scrum Master
 
@@ -112,6 +113,7 @@
 - [x] Manage Environments
 - [x] Calculate Scalability Server Side
 - [x] [`Check System Integrity`](https://access.redhat.com/documentation/pt-br/red_hat_enterprise_linux/7/html/security_guide/sec-using-aide)
+- [x] [`Impementation and maintenance of SSL Certificate`](https://letsencrypt.org)
 
 ### Tester
 
@@ -119,6 +121,7 @@
 - [x] Works with Performance tests
 - [x] Works with SEO tests
 - [x] Works [`behavior tests`](https://github.com/behave/behave)
+- [x] Works with [`requests`](https://pypi.org/project/requests/) https codes quality response  
 
 
 # Engineering  Introduction
@@ -240,7 +243,7 @@ Many features can be solved in Front End side, Back End Side, Server Side, Datab
 
 ## Suggested Solution
 Front End side solve Feature implementation or issue if :
-* Its about Responsive Rules 
+* Its about Responsive Rules
 * Can be solved with [`Registers or filters`](https://docs.djangoproject.com/en/4.2/ref/templates/builtins/) on Template 
 * Changes data presentation values 
 * Change Template Improve SEO Score 
@@ -262,14 +265,16 @@ Many features can be solved in Front End side, Back End Side, Server Side, Datab
 Back End side solve Feature implementation or issue if :
 * Its about CRUD Models Fields 
 * Its about SOLID
-* Its About API Consumation 
-* Can be solved with View Shade 
+* Its About API Consumation
+* Its about Programmatically generate images  
+* Can be solved with View Layer 
 * Changes data values on Views 
 * Change Improve SEO Score Delivering treated data
 * Improve Performance using Clean Arquitecture
 * Its Necessary to Improve  Administrative Side 
 * Improve Crawling operations
 * Improve Rendering Pages
+
 
 
 # Data Base management
@@ -301,9 +306,10 @@ Database Admin  side solve Feature implementation or issue if :
 * Information Quality
 * Service availability 
 * Page Speed Test
-* Search Engine indexing 
+* Search Engine Indexing 
 * Traffic 
 * User Engagement
 * Data Amount 
 * Share Quality
 * Growth Value
+* [`i18n`](https://en.wikipedia.org/wiki/Internationalization_and_localization) internacionalization Quality
