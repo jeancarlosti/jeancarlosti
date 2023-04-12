@@ -299,7 +299,7 @@ Database Admin  side solve Feature implementation or issue if :
 ![](https://ticapsoriginal.com/static/software.png)
 
 
-# Delivery Metric 2023, 12 April 
+# Delivery Metric 2023, 12 April - 30 days of Development
 
 * SEO Score : &nbsp;&nbsp; 95+/100 Search Page 90+/100 NetworkPage  
 * Link Quality
