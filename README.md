@@ -308,7 +308,7 @@ Database Admin  side solve Feature implementation or issue if :
 * Information Quality : &nbsp;&nbsp; 3k+ Networking Services and Companies
 * Service availability : &nbsp;&nbsp; Active
 * Page Speed Test : &nbsp;&nbsp; 65+ Performance Mobile 95+ Performance Desktop 90+ Accessibility Mobile and Desktop
-* Search Engine Indexing : &nbsp;&nbsp;
+* Search Engine Indexing :
 &nbsp; [`Google`](https://www.google.com/search?client=safari&rls=en&q=site%3Ahttps%3A%2F%2Fticapsoriginal.com&ie=UTF-8&oe=UTF-8)   &nbsp;&nbsp;
 &nbsp; [`Bing`](https://www.bing.com/search?q=site%3ahttps%3a%2f%2fticapsoriginal.com&qs=HS&pq=site%3a&sc=10-5&cvid=263231F47B6643AD8A6526D0C08BD52E&FORM=QBLH&sp=1&ghc=1&lq=0)   &nbsp;&nbsp;
 &nbsp; [`Yahoo`](https://br.search.yahoo.com/search;_ylt=AwrE_uywBDdk318Ow1Ly6Qt.;_ylc=X1MDMjExNDcxMDAwMgRfcgMyBGZyAwRmcjIDcDpzLHY6c2ZwLG06c2ItdG9wBGdwcmlkA0VhMy5iaGhGUkMyQVdQODlqNWQxbUEEbl9yc2x0AzAEbl9zdWdnAzAEb3JpZ2luA2JyLnNlYXJjaC55YWhvby5jb20EcG9zAzAEcHFzdHIDBHBxc3RybAMwBHFzdHJsAzMxBHF1ZXJ5A3NpdGUlM0FodHRwcyUzQSUyRiUyRnRpY2Fwc29yaWdpbmFsLmNvbQR0X3N0bXADMTY4MTMyNzI4Nw--;_ylc=X1MDMjExNDcxMDAwMgRfcgMyBGZyAwRmcjIDcDpzLHY6c2ZwLG06c2ItdG9wBGdwcmlkA2ZHdURGeEo3UTVtdmhyZWtGbXFZMkEEbl9yc2x0AzAEbl9zdWdnAzAEb3JpZ2luA2JyLnNlYXJjaC55YWhvby5jb20EcG9zAzAEcHFzdHIDBHBxc3RybAMwBHFzdHJsAzMxBHF1ZXJ5A3NpdGUlM0FodHRwcyUzQSUyRiUyRnRpY2Fwc29yaWdpbmFsLmNvbQR0X3N0bXADMTY4MTMyNzI4Nw--?p=site%3Ahttps%3A%2F%2Fticapsoriginal.com&fr=sfp&fr2=p%3As%2Cv%3Asfp%2Cm%3Asb-top&iscqry=)   &nbsp;&nbsp;
@@ -320,7 +320,7 @@ Database Admin  side solve Feature implementation or issue if :
 
 * Traffic 
 * User Engagement
-* Data Amount &nbsp; 3K+ [`Audios`](https://ticapsoriginal.com/static/audios/ibm.mp3) &nbsp; 3K+ [`Qrcodes`](https://ticapsoriginal.com/static/qrcode/IBMqrcode.png) &nbsp; 3K+ [`Programatic design thumb`](https://ticapsoriginal.com/static/socialimages/Ticapsoriginalibm.png) &nbsp; 20K+ [`Url`](https://ticapsoriginal.com/static/sitemaps2.xml) &nbsp; 2.5k+ videos 
+* Data Amount : &nbsp; 3K+ [`Audios`](https://ticapsoriginal.com/static/audios/ibm.mp3) &nbsp; 3K+ [`Qrcodes`](https://ticapsoriginal.com/static/qrcode/IBMqrcode.png) &nbsp; 3K+ [`Programatic design thumb`](https://ticapsoriginal.com/static/socialimages/Ticapsoriginalibm.png) &nbsp; 20K+ [`Url`](https://ticapsoriginal.com/static/sitemaps2.xml) &nbsp; 2.5k+ videos 
 * Share Quality
 * Growth Value
 * [`i18n`](https://en.wikipedia.org/wiki/Internationalization_and_localization) internacionalization Quality &nbsp; [`🇧🇷`](https://ticapsoriginal.com/pt-br/desembola/) &nbsp; [`🇺🇸`](https://ticapsoriginal.com/en/desembola/) &nbsp; [`🇪🇸`](https://ticapsoriginal.com/es/desembola/) &nbsp; [`🇫🇷`](https://ticapsoriginal.com/fr/desembola/) &nbsp; [`🇮🇳`](https://ticapsoriginal.com/hi/desembola/) &nbsp; [`🇯🇵`](https://ticapsoriginal.com/ja/desembola/) &nbsp; [`🇸🇦`](https://ticapsoriginal.com/ar/desembola/) &nbsp; [`🇨🇳`](https://ticapsoriginal.com/zh-hant/desembola/)
