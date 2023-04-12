@@ -180,6 +180,7 @@ Configured [`bash`](https://www.gnu.org/software/bash/), Shell and  Zsh shortcut
 | [`GSC`](https://search.google.com/search-console/about) | [Google Search Console ] | [Yes] |
 | [`BING`](https://www.bing.com/webmasters/home) | [Bing Web Master Tool ] | [Yes] |
 
+
 # Development Process
 
 The application is developed using modified Feature model behind homologation and production Environments. 
@@ -312,4 +313,4 @@ Database Admin  side solve Feature implementation or issue if :
 * Data Amount 
 * Share Quality
 * Growth Value
-* [`i18n`](https://en.wikipedia.org/wiki/Internationalization_and_localization) internacionalization Quality
+* [`i18n`](https://en.wikipedia.org/wiki/Internationalization_and_localization) internacionalization Quality [`🇧🇷`](https://ticapsoriginal.com/pt-br/desembola/)[`🇺🇸`](https://ticapsoriginal.com/en/desembola/)[`🇪🇸`](https://ticapsoriginal.com/es/desembola/)[`🇫🇷`](https://ticapsoriginal.com/fr/desembola/)[`🇮🇳`](https://ticapsoriginal.com/hi/desembola/)[`🇯🇵`](https://ticapsoriginal.com/ja/desembola/)[`🇸🇦`](https://ticapsoriginal.com/ar/desembola/)[`🇨🇳`](https://ticapsoriginal.com/zh-hant/desembola/)
