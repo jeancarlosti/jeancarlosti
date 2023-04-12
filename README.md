@@ -311,11 +311,11 @@ Database Admin  side solve Feature implementation or issue if :
 * Search Engine Indexing :
 &nbsp; [`Google`](https://www.google.com/search?client=safari&rls=en&q=site%3Ahttps%3A%2F%2Fticapsoriginal.com&ie=UTF-8&oe=UTF-8)   &nbsp;
 &nbsp; [`Bing`](https://www.bing.com/search?q=site%3ahttps%3a%2f%2fticapsoriginal.com&qs=HS&pq=site%3a&sc=10-5&cvid=263231F47B6643AD8A6526D0C08BD52E&FORM=QBLH&sp=1&ghc=1&lq=0)   &nbsp;
-&nbsp; [`Yahoo`](https://br.search.yahoo.com/search;_ylt=AwrE_uywBDdk318Ow1Ly6Qt.;_ylc=X1MDMjExNDcxMDAwMgRfcgMyBGZyAwRmcjIDcDpzLHY6c2ZwLG06c2ItdG9wBGdwcmlkA0VhMy5iaGhGUkMyQVdQODlqNWQxbUEEbl9yc2x0AzAEbl9zdWdnAzAEb3JpZ2luA2JyLnNlYXJjaC55YWhvby5jb20EcG9zAzAEcHFzdHIDBHBxc3RybAMwBHFzdHJsAzMxBHF1ZXJ5A3NpdGUlM0FodHRwcyUzQSUyRiUyRnRpY2Fwc29yaWdpbmFsLmNvbQR0X3N0bXADMTY4MTMyNzI4Nw--;_ylc=X1MDMjExNDcxMDAwMgRfcgMyBGZyAwRmcjIDcDpzLHY6c2ZwLG06c2ItdG9wBGdwcmlkA2ZHdURGeEo3UTVtdmhyZWtGbXFZMkEEbl9yc2x0AzAEbl9zdWdnAzAEb3JpZ2luA2JyLnNlYXJjaC55YWhvby5jb20EcG9zAzAEcHFzdHIDBHBxc3RybAMwBHFzdHJsAzMxBHF1ZXJ5A3NpdGUlM0FodHRwcyUzQSUyRiUyRnRpY2Fwc29yaWdpbmFsLmNvbQR0X3N0bXADMTY4MTMyNzI4Nw--?p=site%3Ahttps%3A%2F%2Fticapsoriginal.com&fr=sfp&fr2=p%3As%2Cv%3Asfp%2Cm%3Asb-top&iscqry=)   &nbsp;
-&nbsp; [`Yandex`](https://yandex.com/search/?text=site%3Ahttps%3A%2F%2Fticapsoriginal.com&lr=21760)   &nbsp;
-&nbsp; [`Ecosia`](https://www.ecosia.org/search?method=index&q=site%3Ahttps%3A%2F%2Fticapsoriginal.com)  &nbsp;
-&nbsp; [`DuckDuckGo`](https://duckduckgo.com/?q=site%3Ahttps%3A%2F%2Fticapsoriginal.com&t=h_&ia=web)   &nbsp;
-&nbsp; [`Seznam`](https://search.seznam.cz/?q=site%3Ahttps%3A%2F%2Fticapsoriginal.com&oq=site%3Ahttps%3A%2F%2Fticapsoriginal.com&aq=-1&sourceid=szn-HP&ks=40&ms=18459&sgId=MC40NTA4MjkzNzk0MjA5MTYzIDE2ODEzMjY1NDMuMjk0)   &nbsp;
+&nbsp; [`Yahoo`](https://br.search.yahoo.com/search;_ylt=AwrE_uywBDdk318Ow1Ly6Qt.;_ylc=X1MDMjExNDcxMDAwMgRfcgMyBGZyAwRmcjIDcDpzLHY6c2ZwLG06c2ItdG9wBGdwcmlkA0VhMy5iaGhGUkMyQVdQODlqNWQxbUEEbl9yc2x0AzAEbl9zdWdnAzAEb3JpZ2luA2JyLnNlYXJjaC55YWhvby5jb20EcG9zAzAEcHFzdHIDBHBxc3RybAMwBHFzdHJsAzMxBHF1ZXJ5A3NpdGUlM0FodHRwcyUzQSUyRiUyRnRpY2Fwc29yaWdpbmFsLmNvbQR0X3N0bXADMTY4MTMyNzI4Nw--;_ylc=X1MDMjExNDcxMDAwMgRfcgMyBGZyAwRmcjIDcDpzLHY6c2ZwLG06c2ItdG9wBGdwcmlkA2ZHdURGeEo3UTVtdmhyZWtGbXFZMkEEbl9yc2x0AzAEbl9zdWdnAzAEb3JpZ2luA2JyLnNlYXJjaC55YWhvby5jb20EcG9zAzAEcHFzdHIDBHBxc3RybAMwBHFzdHJsAzMxBHF1ZXJ5A3NpdGUlM0FodHRwcyUzQSUyRiUyRnRpY2Fwc29yaWdpbmFsLmNvbQR0X3N0bXADMTY4MTMyNzI4Nw--?p=site%3Ahttps%3A%2F%2Fticapsoriginal.com&fr=sfp&fr2=p%3As%2Cv%3Asfp%2Cm%3Asb-top&iscqry=) 
+&nbsp; [`Yandex`](https://yandex.com/search/?text=site%3Ahttps%3A%2F%2Fticapsoriginal.com&lr=21760) 
+&nbsp; [`Ecosia`](https://www.ecosia.org/search?method=index&q=site%3Ahttps%3A%2F%2Fticapsoriginal.com) 
+&nbsp; [`DuckDuckGo`](https://duckduckgo.com/?q=site%3Ahttps%3A%2F%2Fticapsoriginal.com&t=h_&ia=web)  
+&nbsp; [`Seznam`](https://search.seznam.cz/?q=site%3Ahttps%3A%2F%2Fticapsoriginal.com&oq=site%3Ahttps%3A%2F%2Fticapsoriginal.com&aq=-1&sourceid=szn-HP&ks=40&ms=18459&sgId=MC40NTA4MjkzNzk0MjA5MTYzIDE2ODEzMjY1NDMuMjk0) 
 &nbsp; [`Ask`](https://www.ask.com/web?q=site:https://ticapsoriginal.com&ad=SEO&o=779176&ueid=e1b80233-5eb3-4299-8134-168fdf0eabb3)   &nbsp;
 
 * Traffic 
