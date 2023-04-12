@@ -299,15 +299,15 @@ Database Admin  side solve Feature implementation or issue if :
 ![](https://ticapsoriginal.com/static/software.png)
 
 
-# Ticapsoriginal Delivery Metrics Latest 30 Days 2023 12 March - 12 April 
+# Delivery Metric 2023, 12 April 
 
-* SEO Score : 95+/100 Search Page 90+/100 NetworkPage  
+* SEO Score : &nbsp;&nbsp; 95+/100 Search Page 90+/100 NetworkPage  
 * Link Quality
-* Link Amount : 125K+ Internal Links 35K+ External Links
+* Link Amount : &nbsp;&nbsp; 125K+ Internal Links 35K+ External Links
 * Data Quality
-* Information Quality
-* Service availability 
-* Page Speed Test
+* Information Quality : &nbsp;&nbsp; 3k+ Networking Services and Companies
+* Service availability : &nbsp;&nbsp; Active
+* Page Speed Test : &nbsp;&nbsp; 65+ Performance Mobile 95+ Performance Desktop 90+ Accessibility Mobile and Desktop
 * Search Engine Indexing : &nbsp;&nbsp;
 &nbsp; [`Google`](https://www.google.com/search?client=safari&rls=en&q=site%3Ahttps%3A%2F%2Fticapsoriginal.com&ie=UTF-8&oe=UTF-8)   &nbsp;&nbsp;
 &nbsp; [`Bing`](https://www.bing.com/search?q=site%3ahttps%3a%2f%2fticapsoriginal.com&qs=HS&pq=site%3a&sc=10-5&cvid=263231F47B6643AD8A6526D0C08BD52E&FORM=QBLH&sp=1&ghc=1&lq=0)   &nbsp;&nbsp;
