@@ -303,7 +303,7 @@ Database Admin  side solve Feature implementation or issue if :
 
 * SEO Score : &nbsp;&nbsp; 95+/100 Search Page 90+/100 NetworkPage  
 * Link Quality
-* Link Amount : &nbsp;&nbsp; 1M Internal Links 280K+ External Links
+* Link Amount : &nbsp;&nbsp; 1M+ Internal Links 280K+ External Links
 * Data Quality
 * Information Quality : &nbsp;&nbsp; 3k+ Networking Services and Companies
 * Service availability : &nbsp;&nbsp; Active
