@@ -316,3 +316,9 @@ Database Admin  side solve Feature implementation or issue if :
 * Share Quality
 * Growth Value
 * [`i18n`](https://en.wikipedia.org/wiki/Internationalization_and_localization) internacionalization Quality &nbsp; [`🇧🇷`](https://ticapsoriginal.com/pt-br/desembola/) &nbsp; [`🇺🇸`](https://ticapsoriginal.com/en/desembola/) &nbsp; [`🇪🇸`](https://ticapsoriginal.com/es/desembola/) &nbsp; [`🇫🇷`](https://ticapsoriginal.com/fr/desembola/) &nbsp; [`🇮🇳`](https://ticapsoriginal.com/hi/desembola/) &nbsp; [`🇯🇵`](https://ticapsoriginal.com/ja/desembola/) &nbsp; [`🇸🇦`](https://ticapsoriginal.com/ar/desembola/) &nbsp; [`🇨🇳`](https://ticapsoriginal.com/zh-hant/desembola/)
+
+# Ticapsoriginal Data Integrity
+
+[`qrcode integrity md5`](https://ticapsoriginal.com/static/audios/qrcodemd5.py)
+[`audios integrity md5`](https://ticapsoriginal.com/static/audios/audiosmd5.py)
+[`socialimages integrity md5`](https://ticapsoriginal.com/static/audios/socialimagesmd5.py)
