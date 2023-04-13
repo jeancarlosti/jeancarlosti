@@ -150,14 +150,14 @@ Below is the table of important events.
 | ------------------ | --------- | -------------- |
 | [`Google Page Insights`](https://pagespeed.web.dev) | [Latest] | [Yes] |
 | [`Ahrefs Extensions`](https://ahrefs.com) | [Latest] | [Yes] |
-| [`Vim`](https://www.vim.org) | [Latest] | [Yes] |
-| [`Sublime Text`](https://www.sublimetext.com) | [Latest] | [Yes] |
+| [`Vim`](https://www.vim.org) | [8.1] | [Yes] |
+| [`Sublime Text`](https://www.sublimetext.com) | [4143] | [Yes] |
 | [Browsers] | [Latest] | [Yes] |
 | [Terminal] | [Latest] | [Yes] |
-| [`Zsh`](https://ohmyz.sh) | [Latest] | [Yes] |
+| [`Zsh`](https://ohmyz.sh) | [5.7.1] | [Yes] |
 | [`Python`](https://www.python.org) | [3.8] | [Yes] |
 | [`Django`](https://www.djangoproject.com) | [4.0] | [Yes] |
-| [`Sqlite3`](https://sqlite.org/index.html) | [Latest] | [Yes] |
+| [`Sqlite3`](https://sqlite.org/index.html) | [3.28] | [Yes] |
 | [`Rockylinux`](https://rockylinux.org) | [9.0] | [Yes] |
 | [`Bulma Css`](https://bulma.io) | [0.9.4] | [Yes] |
 | [`Gunicorn`](https://gunicorn.org) | [20.0.1] | [Yes] |
