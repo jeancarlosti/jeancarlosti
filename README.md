@@ -319,10 +319,11 @@ Database Admin  side solve Feature implementation or issue if :
 
 # Ticapsoriginal Data Integrity
 
+* MD5 Integrity
 [`qrcode integrity md5`](https://ticapsoriginal.com/static/qrcode/qrcodemd5.py)
 [`audios integrity md5`](https://ticapsoriginal.com/static/audios/audiosmd5.py)
-[`socialimages integrity md5`](https://ticapsoriginal.com/static/socialimages/socialimagesmd5.py)&nbsp;&nbsp;
-&nbsp;
+[`socialimages integrity md5`](https://ticapsoriginal.com/static/socialimages/socialimagesmd5.py)
+* SHA Integrity
 [`qrcode integrity sha`](https://ticapsoriginal.com/static/qrcode/qrcodesha.py)
 [`audios integrity sha`](https://ticapsoriginal.com/static/audios/audiossha.py)
 [`socialimages integrity sha`](https://ticapsoriginal.com/static/socialimages/socialimagessha.py)
