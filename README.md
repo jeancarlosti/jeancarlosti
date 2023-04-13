@@ -319,6 +319,6 @@ Database Admin  side solve Feature implementation or issue if :
 
 # Ticapsoriginal Data Integrity
 
-[`qrcode integrity md5`](https://ticapsoriginal.com/static/audios/qrcodemd5.py)
+[`qrcode integrity md5`](https://ticapsoriginal.com/static/qrcode/qrcodemd5.py)
 [`audios integrity md5`](https://ticapsoriginal.com/static/audios/audiosmd5.py)
-[`socialimages integrity md5`](https://ticapsoriginal.com/static/audios/socialimagesmd5.py)
+[`socialimages integrity md5`](https://ticapsoriginal.com/static/socialimages/socialimagesmd5.py)
