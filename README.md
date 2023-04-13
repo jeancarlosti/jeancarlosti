@@ -312,7 +312,7 @@ Database Admin  side solve Feature implementation or issue if :
 
 * Traffic 
 * User Engagement
-* Data Amount : &nbsp; 3K+ [`Audios`](https://ticapsoriginal.com/static/audios/ibm.mp3) &nbsp; 3K+ [`Qrcodes`](https://ticapsoriginal.com/static/qrcode/IBMqrcode.png) &nbsp; 3K+ [`Programatic design thumb`](https://ticapsoriginal.com/static/socialimages/Ticapsoriginalibm.png) &nbsp; 20K+ [`Url`](https://ticapsoriginal.com/static/sitemaps2.xml) &nbsp; 2.5k+ videos 
+* Data Amount : &nbsp; 3K+ [`Audios`](https://ticapsoriginal.com/static/audios/ibm.mp3) &nbsp; 3K+ [`Qrcodes`](https://ticapsoriginal.com/static/qrcode/IBMqrcode.png) &nbsp; 3K+ [`Programatic design thumb`](https://ticapsoriginal.com/static/socialimages/Ticapsoriginalibm.png) &nbsp; 24K+ [`Url`](https://ticapsoriginal.com/static/sitemaps2.xml) &nbsp; 2.5k+ videos 
 * Share Quality
 * Growth Value
 * [`i18n`](https://en.wikipedia.org/wiki/Internationalization_and_localization) internacionalization Quality &nbsp; [`🇧🇷`](https://ticapsoriginal.com/pt-br/desembola/) &nbsp; [`🇺🇸`](https://ticapsoriginal.com/en/desembola/) &nbsp; [`🇪🇸`](https://ticapsoriginal.com/es/desembola/) &nbsp; [`🇫🇷`](https://ticapsoriginal.com/fr/desembola/) &nbsp; [`🇮🇳`](https://ticapsoriginal.com/hi/desembola/) &nbsp; [`🇯🇵`](https://ticapsoriginal.com/ja/desembola/) &nbsp; [`🇸🇦`](https://ticapsoriginal.com/ar/desembola/) &nbsp; [`🇨🇳`](https://ticapsoriginal.com/zh-hant/desembola/)
