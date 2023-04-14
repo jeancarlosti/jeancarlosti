@@ -119,6 +119,7 @@
 - [x] [`Check System Integrity`](https://access.redhat.com/documentation/pt-br/red_hat_enterprise_linux/7/html/security_guide/sec-using-aide)
 - [x] [`Impementation and maintenance of SSL Certificate`](https://letsencrypt.org)
 - [x] [`Dns full global range propagation and maintenance`](https://www.whatsmydns.net/#A/ticapsoriginal.com)
+- [x] Make setenforce rules
 
 
 ### Tester
