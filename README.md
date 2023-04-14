@@ -35,7 +35,7 @@
 
 
 
-# [` Ticapsoriginal` ](https://ticapsoriginal.com/) Worker Structure
+# 🧢 [` Ticapsoriginal` ](https://ticapsoriginal.com/) Worker Structure
 
 
 
@@ -103,7 +103,8 @@
 - [x] Collect data
 - [x] Organize Data
 - [x] Clean Data
-- [x] Define Tables and ORM Relations 
+- [x] Define Tables and ORM Relations
+- [x] Manage database security
 
 
 ### Devops
@@ -111,9 +112,14 @@
 - [x] Works with deploys
 - [x] Works with Server Operational System
 - [x] Manage Environments
+- [x] Make log scripts
+- [x] Make and check Integrity scripts
+- [x] Monitor server side process
 - [x] Calculate Scalability Server Side
 - [x] [`Check System Integrity`](https://access.redhat.com/documentation/pt-br/red_hat_enterprise_linux/7/html/security_guide/sec-using-aide)
 - [x] [`Impementation and maintenance of SSL Certificate`](https://letsencrypt.org)
+- [x] [`Dns full global range propagation and maintenance`](https://www.whatsmydns.net/#A/ticapsoriginal.com)
+
 
 ### Tester
 
@@ -306,14 +312,14 @@ Database Admin  side solve Feature implementation or issue if :
 * Link Amount : &nbsp;&nbsp; 1️⃣M+ Internal Links 280K+ External Links
 * Data Quality
 * Information Quality : &nbsp;&nbsp; 3k+ Networking Services and Companies
-* Service availability : &nbsp;&nbsp; Active
+* Service availability : &nbsp;&nbsp; 🟢 Active
 * Page Speed Test : &nbsp;&nbsp; 65+ Performance Mobile 95+ Performance Desktop 90+ Accessibility Mobile and Desktop
 * Search Engine Indexing : [`Google`](https://www.google.com/search?client=safari&rls=en&q=site%3Ahttps%3A%2F%2Fticapsoriginal.com&ie=UTF-8&oe=UTF-8) [`Bing`](https://www.bing.com/search?q=site%3ahttps%3a%2f%2fticapsoriginal.com&qs=HS&pq=site%3a&sc=10-5&cvid=263231F47B6643AD8A6526D0C08BD52E&FORM=QBLH&sp=1&ghc=1&lq=0) [`Yahoo`](https://br.search.yahoo.com/search;_ylt=AwrE_uywBDdk318Ow1Ly6Qt.;_ylc=X1MDMjExNDcxMDAwMgRfcgMyBGZyAwRmcjIDcDpzLHY6c2ZwLG06c2ItdG9wBGdwcmlkA0VhMy5iaGhGUkMyQVdQODlqNWQxbUEEbl9yc2x0AzAEbl9zdWdnAzAEb3JpZ2luA2JyLnNlYXJjaC55YWhvby5jb20EcG9zAzAEcHFzdHIDBHBxc3RybAMwBHFzdHJsAzMxBHF1ZXJ5A3NpdGUlM0FodHRwcyUzQSUyRiUyRnRpY2Fwc29yaWdpbmFsLmNvbQR0X3N0bXADMTY4MTMyNzI4Nw--;_ylc=X1MDMjExNDcxMDAwMgRfcgMyBGZyAwRmcjIDcDpzLHY6c2ZwLG06c2ItdG9wBGdwcmlkA2ZHdURGeEo3UTVtdmhyZWtGbXFZMkEEbl9yc2x0AzAEbl9zdWdnAzAEb3JpZ2luA2JyLnNlYXJjaC55YWhvby5jb20EcG9zAzAEcHFzdHIDBHBxc3RybAMwBHFzdHJsAzMxBHF1ZXJ5A3NpdGUlM0FodHRwcyUzQSUyRiUyRnRpY2Fwc29yaWdpbmFsLmNvbQR0X3N0bXADMTY4MTMyNzI4Nw--?p=site%3Ahttps%3A%2F%2Fticapsoriginal.com&fr=sfp&fr2=p%3As%2Cv%3Asfp%2Cm%3Asb-top&iscqry=) [`Yandex`](https://yandex.com/search/?text=site%3Ahttps%3A%2F%2Fticapsoriginal.com&lr=21760) [`Ecosia`](https://www.ecosia.org/search?method=index&q=site%3Ahttps%3A%2F%2Fticapsoriginal.com) [`DuckDuckGo`](https://duckduckgo.com/?q=site%3Ahttps%3A%2F%2Fticapsoriginal.com&t=h_&ia=web) [`Seznam`](https://search.seznam.cz/?q=site%3Ahttps%3A%2F%2Fticapsoriginal.com&oq=site%3Ahttps%3A%2F%2Fticapsoriginal.com&aq=-1&sourceid=szn-HP&ks=40&ms=18459&sgId=MC40NTA4MjkzNzk0MjA5MTYzIDE2ODEzMjY1NDMuMjk0) [`Ask`](https://www.ask.com/web?q=site:https://ticapsoriginal.com&ad=SEO&o=779176&ueid=e1b80233-5eb3-4299-8134-168fdf0eabb3) [`swisscows`](https://swisscows.com/en/web?query=https%3A%2F%2Fticapsoriginal.com) [`Lycos`](https://search.lycos.com/web/?q=https%3A%2F%2Fticapsoriginal.com&keyvol=00db2b257a0518c0978a&_gl=1%2A989rcq%2A_ga%2AMjE0MDE4Mzc2OS4xNjgxMzg2NzYx%2A_ga_76FJGHQNN6%2AMTY4MTM4Njc2MS4xLjAuMTY4MTM4Njc2MS4wLjAuMA..) [`Neeva`](https://neeva.com/search?q=https%3A%2F%2Fticapsoriginal.com&src=mkthome) [`Qmamu`](https://qmamu.com/search?q=https%3A%2F%2Fticapsoriginal.com&from=web) [`WebCrawler`](https://www.webcrawler.com/serp?q=https%3A%2F%2Fticapsoriginal.com&sc=gHIlGschflDQ10) [`Metager`](https://metager.de/meta/meta.ger3?eingabe=https%3A%2F%2Fticapsoriginal.com&focus=web&mgv=f60f615cdc7c8539984d4122d844d92d) [`Oscobo`](https://search.becovi.com/serp.php?q=https%3A%2F%2Fticapsoriginal.com&i=VZN9ERDLI8&atr=2CFZYE19XRV4LO38UD5AIPH1U5PI9KQ7)
 
 * Traffic 
 * User Engagement
 * Data Amount : &nbsp; 3K+ [`Audios`](https://ticapsoriginal.com/static/audios/ibm.mp3) &nbsp; 3K+ [`Qrcodes`](https://ticapsoriginal.com/static/qrcode/IBMqrcode.png) &nbsp; 3K+ [`Programatic design thumb`](https://ticapsoriginal.com/static/socialimages/Ticapsoriginalibm.png) &nbsp; 24K+ [`Url`](https://ticapsoriginal.com/static/sitemaps2.xml) &nbsp; 2.5k+ videos 
-* Share Quality
+* Share Quality : Twitter Facebook Whatsapp 
 * Growth Value
 * [`i18n`](https://en.wikipedia.org/wiki/Internationalization_and_localization) internacionalization Quality &nbsp; [`🇧🇷`](https://ticapsoriginal.com/pt-br/desembola/) &nbsp; [`🇺🇸`](https://ticapsoriginal.com/en/desembola/) &nbsp; [`🇪🇸`](https://ticapsoriginal.com/es/desembola/) &nbsp; [`🇫🇷`](https://ticapsoriginal.com/fr/desembola/) &nbsp; [`🇮🇳`](https://ticapsoriginal.com/hi/desembola/) &nbsp; [`🇯🇵`](https://ticapsoriginal.com/ja/desembola/) &nbsp; [`🇸🇦`](https://ticapsoriginal.com/ar/desembola/) &nbsp; [`🇨🇳`](https://ticapsoriginal.com/zh-hant/desembola/)
 
