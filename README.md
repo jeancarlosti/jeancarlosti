@@ -29,15 +29,7 @@
 * [`Jean Tinoco Stackshare`](https://stackshare.io/JeanTinoco/following)
 * [`Jean Tinoco Github`](https://github.com/Tinoco/)
 
-* [` 🧢 Ticapsoriginal Professsional Ti Networking 🧢`](https://ticapsoriginal.com/)
-* [` 🧶 Multissector Intelligence  🧶`](https://medium.com/@desembo.la)
-
-
-
-
 # 🧢 [` Ticapsoriginal` ](https://ticapsoriginal.com/) Worker Structure
-
-
 
 **Total Team Size**: [1]
 
