@@ -29,7 +29,7 @@
 * [`Jean Tinoco Stackshare`](https://stackshare.io/JeanTinoco/following)
 * [`Jean Tinoco Github`](https://github.com/Tinoco/)
 
-# 🧢 [` Ticapsoriginal` ](https://ticapsoriginal.com/) Worker Structure
+# 🧢 [` Ticapsoriginal 7.1.00` ](https://ticapsoriginal.com/) Worker Structure
 
 **Total Team Size**: [1]
 
