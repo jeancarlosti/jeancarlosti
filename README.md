@@ -300,7 +300,7 @@ Database Admin  side solve Feature implementation or issue if :
 
 # Delivery Metric 2023, 12 April - 30 days of Development
 
-* SEO Score : &nbsp;&nbsp; 95+/100 Search Page 90+/100 NetworkPage  
+* [`SEO score`](https://aioseo.com/seo-analyzer/#section-advanced) : &nbsp;&nbsp; 97/100 Search Page 94/100 NetworkPage  
 * Link Quality
 * Link Amount : &nbsp;&nbsp; 1️⃣M+ Internal Links 280K+ External Links
 * Data Quality
