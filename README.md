@@ -58,6 +58,7 @@
 - [x] New developer onboarding
 - [x] Sets code review process
 - [x] Define Paradigms [ OOP , Components , Paralell, Protocol ]
+- [x] Building Python Packages 
 
 ### Product Owner
 
