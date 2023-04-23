@@ -154,17 +154,17 @@ Below is the table of important events.
 | [`Ahrefs Extensions`](https://ahrefs.com) | [Latest] | [Yes] | [cve] |
 | [`Vim`](https://www.vim.org) | [8.1] | [Yes] | [`cve`](https://www.cvedetails.com/vulnerability-list/vendor_id-8218/opec-1/VIM.html) |
 | [`iTerm2`](https://www.vim.org) | [3.4] | [Yes] | [`cve`](https://www.cvedetails.com/vulnerability-list/vendor_id-17010/Iterm2.html) |
-| [`Sublime Text`](https://www.sublimetext.com) | [4143] | [Yes] | [cve] |
+| [`Sublime Text`](https://www.sublimetext.com) | [4143] | [Yes] | [`cve`](https://www.cvedetails.com/vulnerability-list/vendor_id-16677/product_id-38805/Sublimetext-Sublime-Text-3.html) |
 | [Browsers] | [Latest] | [Yes] | [cve] |
 | [Terminal] | [Latest] | [Yes] | [cve] |
-| [`Zsh`](https://ohmyz.sh) | [5.7.1] | [Yes] | [cve] |
+| [`Zsh`](https://ohmyz.sh) | [5.7.1] | [Yes] | [`cve`](https://www.cvedetails.com/vulnerability-list/vendor_id-7498/product_id-12642/ZSH-ZSH.html) |
 | [`Python`](https://www.python.org) | [3.8] | [Yes] | [cve] |
 | [`Django`](https://www.djangoproject.com) | [4.0] | [Yes] | [cve] |
-| [`Sqlite3`](https://sqlite.org/index.html) | [3.28] | [Yes] | [cve] |
+| [`Sqlite3`](https://sqlite.org/index.html) | [3.28] | [Yes] | [`cve`](https://www.cvedetails.com/vulnerability-list/vendor_id-9237/Sqlite.html) |
 | [`Rockylinux`](https://rockylinux.org) | [9.0] | [Yes] | [cve] |
 | [`Bulma Css`](https://bulma.io) | [0.9.4] | [Yes] | [cve] |
-| [`Gunicorn`](https://gunicorn.org) | [20.0.1] | [Yes] | [cve] |
-| [`Nginx`](https://www.nginx.com) | [1.22] | [Yes] | [cve] |
+| [`Gunicorn`](https://gunicorn.org) | [20.0.1] | [Yes] | [`cve`](https://www.cvedetails.com/vulnerability-list/vendor_id-17891/product_id-45578/Gunicorn-Gunicorn.html) |
+| [`Nginx`](https://www.nginx.com) | [1.22] | [Yes] | [`cve`](https://www.cvedetails.com/vulnerability-list/vendor_id-10048/product_id-17956/Nginx-Nginx.html) |
 | [`Pypi Packages`](https://pypi.org) | [Requireds] | [Yes] | [cve] |
 
 # Development Environment
