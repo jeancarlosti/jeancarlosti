@@ -113,6 +113,7 @@
 - [x] [`Impementation and maintenance of SSL Certificate`](https://letsencrypt.org)
 - [x] [`Dns full global range propagation and maintenance`](https://www.whatsmydns.net/#A/ticapsoriginal.com)
 - [x] Make setenforce rules
+- [x] Find and catalog cves 
 
 
 ### Tester
@@ -121,7 +122,8 @@
 - [x] Works with Performance tests
 - [x] Works with SEO tests
 - [x] Works [`behavior tests`](https://github.com/behave/behave)
-- [x] Works with [`requests`](https://pypi.org/project/requests/) https codes quality response  
+- [x] Works with [`requests`](https://pypi.org/project/requests/) https codes quality response
+   
 
 
 # Engineering  Introduction
@@ -163,6 +165,10 @@ Below is the table of important events.
 | [`Gunicorn`](https://gunicorn.org) | [20.0.1] | [Yes] |
 | [`Nginx`](https://www.nginx.com) | [1.22] | [Yes] |
 | [`Pypi Packages`](https://pypi.org) | [Requireds] | [Yes] |
+
+# CVE set vulnerabilitys
+* [`Vim`](https://www.cvedetails.com/vulnerability-list/vendor_id-8218/opec-1/VIM.html)
+* [`iTerm2`](https://www.cvedetails.com/vulnerability-list/vendor_id-17010/Iterm2.html) 
 
 # Development Environment
 
