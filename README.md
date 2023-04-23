@@ -153,7 +153,7 @@ Below is the table of important events.
 | [`Google Page Insights`](https://pagespeed.web.dev) | [Latest] | [Yes] | [cve] |
 | [`Ahrefs Extensions`](https://ahrefs.com) | [Latest] | [Yes] | [cve] |
 | [`Vim`](https://www.vim.org) | [8.1] | [Yes] | [`cve`](https://www.cvedetails.com/vulnerability-list/vendor_id-8218/opec-1/VIM.html) |
-| [`iTerm2`](https://www.vim.org) | [8.1] | [Yes] | [`cve`](https://www.cvedetails.com/vulnerability-list/vendor_id-17010/Iterm2.html) |
+| [`iTerm2`](https://www.vim.org) | [3.4] | [Yes] | [`cve`](https://www.cvedetails.com/vulnerability-list/vendor_id-17010/Iterm2.html) |
 | [`Sublime Text`](https://www.sublimetext.com) | [4143] | [Yes] | [cve] |
 | [Browsers] | [Latest] | [Yes] | [cve] |
 | [Terminal] | [Latest] | [Yes] | [cve] |
