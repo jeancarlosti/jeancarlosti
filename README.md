@@ -2,9 +2,9 @@
   
 ### Skills:
 
-*  ti networking
+*  it networking
 *  product building
-*  ti strategy
+*  it strategy
 *  web development
 *  mobile development
 *  marketing strategy
