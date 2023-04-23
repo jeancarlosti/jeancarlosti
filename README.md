@@ -148,27 +148,24 @@ Below is the table of important events.
 # [ Ticapsoriginal ] Tools
 
 
-| Tool               | Version   | Required       |
-| ------------------ | --------- | -------------- |
-| [`Google Page Insights`](https://pagespeed.web.dev) | [Latest] | [Yes] |
-| [`Ahrefs Extensions`](https://ahrefs.com) | [Latest] | [Yes] |
-| [`Vim`](https://www.vim.org) | [8.1] | [Yes] |
-| [`Sublime Text`](https://www.sublimetext.com) | [4143] | [Yes] |
-| [Browsers] | [Latest] | [Yes] |
-| [Terminal] | [Latest] | [Yes] |
-| [`Zsh`](https://ohmyz.sh) | [5.7.1] | [Yes] |
-| [`Python`](https://www.python.org) | [3.8] | [Yes] |
-| [`Django`](https://www.djangoproject.com) | [4.0] | [Yes] |
-| [`Sqlite3`](https://sqlite.org/index.html) | [3.28] | [Yes] |
-| [`Rockylinux`](https://rockylinux.org) | [9.0] | [Yes] |
-| [`Bulma Css`](https://bulma.io) | [0.9.4] | [Yes] |
-| [`Gunicorn`](https://gunicorn.org) | [20.0.1] | [Yes] |
-| [`Nginx`](https://www.nginx.com) | [1.22] | [Yes] |
-| [`Pypi Packages`](https://pypi.org) | [Requireds] | [Yes] |
-
-# CVE set vulnerabilitys
-* [`Vim`](https://www.cvedetails.com/vulnerability-list/vendor_id-8218/opec-1/VIM.html)
-* [`iTerm2`](https://www.cvedetails.com/vulnerability-list/vendor_id-17010/Iterm2.html) 
+| Tool               | Version   | Required       | CVE       |
+| ------------------ | --------- | -------------- | -------------- |
+| [`Google Page Insights`](https://pagespeed.web.dev) | [Latest] | [Yes] | [CVE] |
+| [`Ahrefs Extensions`](https://ahrefs.com) | [Latest] | [Yes] | [CVE] |
+| [`Vim`](https://www.vim.org) | [8.1] | [Yes] | [`CVE`](https://www.cvedetails.com/vulnerability-list/vendor_id-8218/opec-1/VIM.html) |
+| [`iTerm2`](https://www.vim.org) | [8.1] | [Yes] | [`iTerm2`](https://www.cvedetails.com/vulnerability-list/vendor_id-17010/Iterm2.html) |
+| [`Sublime Text`](https://www.sublimetext.com) | [4143] | [Yes] | [CVE] |
+| [Browsers] | [Latest] | [Yes] | [CVE] |
+| [Terminal] | [Latest] | [Yes] | [CVE] |
+| [`Zsh`](https://ohmyz.sh) | [5.7.1] | [Yes] | [CVE] |
+| [`Python`](https://www.python.org) | [3.8] | [Yes] | [CVE] |
+| [`Django`](https://www.djangoproject.com) | [4.0] | [Yes] | [CVE] |
+| [`Sqlite3`](https://sqlite.org/index.html) | [3.28] | [Yes] | [CVE] |
+| [`Rockylinux`](https://rockylinux.org) | [9.0] | [Yes] | [CVE] |
+| [`Bulma Css`](https://bulma.io) | [0.9.4] | [Yes] | [CVE] |
+| [`Gunicorn`](https://gunicorn.org) | [20.0.1] | [Yes] | [CVE] |
+| [`Nginx`](https://www.nginx.com) | [1.22] | [Yes] | [CVE] |
+| [`Pypi Packages`](https://pypi.org) | [Requireds] | [Yes] | [CVE] |
 
 # Development Environment
 
