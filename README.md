@@ -305,8 +305,8 @@ Database Admin  side solve Feature implementation or issue if :
 # Delivered Metrics 2023, 12 April - 30 days of Development
 
 * [`SEO score`](https://aioseo.com/seo-analyzer/#section-advanced) : &nbsp;&nbsp; 97/100 Search Page 94/100 NetworkPage 
-* [`Domain Authority`](https://websiteseochecker.com/domain-authority-checker/) 5
-* [`Page Authority`](https://websiteseochecker.com/domain-authority-checker/) 14
+* [`Domain Authority`](https://websiteseochecker.com/domain-authority-checker/) : 5
+* [`Page Authority`](https://websiteseochecker.com/domain-authority-checker/) : 14
 * url quality
 * Link Quality
 * Link Amount : &nbsp;&nbsp; 1️⃣M+ Internal Links 280K+ External Links
