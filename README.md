@@ -173,7 +173,7 @@ Worker developer have tools mentioned here installed on their machine.
 
 ## Cli command-line configuration
 
-Configured [`bash`](https://www.gnu.org/software/bash/), Shell and  Zsh shortcut and alias files. 
+Configured [`bash`](https://www.gnu.org/software/bash/), Shell and  Zsh[`shortcuts and alias files`](https://github.com/Tinoco/Ticapsoriginal_zshrc_shortcuts) 
 
 # Accounts
 
