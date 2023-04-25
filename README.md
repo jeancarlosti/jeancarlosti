@@ -334,4 +334,8 @@ Database Admin  side solve Feature implementation or issue if :
 [`audios integrity sha`](https://ticapsoriginal.com/static/audios/audiossha.py)
 [`socialimages integrity sha`](https://ticapsoriginal.com/static/socialimages/socialimagessha.py)
 
+# Want to support the growth of Ticapsoriginal ?
+
+[`Buy Ticapsoriginal a happiness `](https://www.buymeacoffee.com/ticapsoriginal)
+
 
