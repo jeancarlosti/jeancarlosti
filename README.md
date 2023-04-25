@@ -336,8 +336,5 @@ Database Admin  side solve Feature implementation or issue if :
 
 # Want to support the growth of Ticapsoriginal ?
 
-[`Buy Ticapsoriginal a happiness with stripe `](https://www.buymeacoffee.com/ticapsoriginal)
+[`Buy Ticapsoriginal a happiness with stripe `](https://www.buymeacoffee.com/ticapsoriginal) 
 [`Improve Ticapsoriginal growth with paypal `](https://www.paypal.com/donate/?hosted_button_id=HAPS7PD5JCCTA)
-[`Make Bank slip with asaas`](https://www.asaas.com/c/831563988431)
-
-
