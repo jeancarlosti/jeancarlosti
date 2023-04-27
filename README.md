@@ -338,6 +338,14 @@ Database Admin  side solve Feature implementation or issue if :
 
 ![](https://ticapsoriginal.com/static/ticapswebview.png)
 
+# Ticapsoriginal pages [`front end megaindexing pac `](https://github.com/Tinoco/Ticapsoriginal_frontend_megaindexing_pac):
+
+![]https://ticapsoriginal.com/static/frontindex1.png)
+
+![](https://ticapsoriginal.com/static/frontindex2.png)
+
+![](https://ticapsoriginal.com/static/frontindex3.png)
+
 # Want to support the growth of Ticapsoriginal ?
 
 [`Buy Ticapsoriginal a happiness with stripe `](https://www.buymeacoffee.com/ticapsoriginal) 
