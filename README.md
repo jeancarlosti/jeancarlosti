@@ -338,12 +338,15 @@ Database Admin  side solve Feature implementation or issue if :
 
 ![](https://ticapsoriginal.com/static/ticapswebview.png)
 
-# Ticapsoriginal pages [`front end megaindexing pac `](https://github.com/Tinoco/Ticapsoriginal_frontend_megaindexing_pac):
+# Ticapsoriginal [`front end megaindexing pac `](https://github.com/Tinoco/Ticapsoriginal_frontend_megaindexing_pac):
 
-![]https://ticapsoriginal.com/static/frontindex1.png)
+* indexability / content indexing / json-ld structed data
+![](https://ticapsoriginal.com/static/frontindex1.png)
 
+* social og and cards / links do follow
 ![](https://ticapsoriginal.com/static/frontindex2.png)
 
+* http headers / images 
 ![](https://ticapsoriginal.com/static/frontindex3.png)
 
 # Want to support the growth of Ticapsoriginal ?
