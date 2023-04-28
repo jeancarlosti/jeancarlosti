@@ -338,7 +338,7 @@ Database Admin  side solve Feature implementation or issue if :
 
 ![](https://ticapsoriginal.com/static/ticapswebview.png)
 
-# Ticapsoriginal [`front end megaindexing pac `](https://github.com/Tinoco/Ticapsoriginal_frontend_megaindexing_pac):
+## Ticapsoriginal [`front end megaindexing pac `](https://github.com/Tinoco/Ticapsoriginal_frontend_megaindexing_pac):
 
 * indexability / content indexing / json-ld structed data
 ![](https://ticapsoriginal.com/static/frontindex1.png)
@@ -349,7 +349,7 @@ Database Admin  side solve Feature implementation or issue if :
 * http headers / images 
 ![](https://ticapsoriginal.com/static/frontindex3.png)
 
-* [`placid social share thumb test`](https://socialsharepreview.com/?url=https://ticapsoriginal.com/en/ibm/)
+* full coverage [`placid social share thumb test`](https://socialsharepreview.com/?url=https://ticapsoriginal.com/en/ibm/)
 
 ![](https://ticapsoriginal.com/static/frontindex4.png)
 
