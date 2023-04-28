@@ -349,6 +349,10 @@ Database Admin  side solve Feature implementation or issue if :
 * http headers / images 
 ![](https://ticapsoriginal.com/static/frontindex3.png)
 
+* [`placid social share thumb test`](https://socialsharepreview.com/?url=https://ticapsoriginal.com/en/ibm/)
+
+![](https://ticapsoriginal.com/static/frontindex4.png)
+
 # Want to support the growth of Ticapsoriginal ?
 
 [`Buy Ticapsoriginal a happiness with stripe `](https://www.buymeacoffee.com/ticapsoriginal) 
