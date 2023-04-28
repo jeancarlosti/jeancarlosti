@@ -307,6 +307,7 @@ Database Admin  side solve Feature implementation or issue if :
 * [`SEO score`](https://aioseo.com/seo-analyzer/#section-advanced) : &nbsp;&nbsp; 97/100 Search Page 94/100 NetworkPage 
 * [`domain Authority`](https://websiteseochecker.com/domain-authority-checker/) : 5
 * [`page Authority`](https://websiteseochecker.com/domain-authority-checker/) : 14
+* [`moz total backlinks`](https://websiteseochecker.com/domain-authority-checker/) : 120
 * url quality : autodiscover internacionalization / [`available coverage`](https://github.com/Tinoco/Ticapsoriginal_sitemaps_url_status) / friendly 
 * Link Quality
 * Link Amount : &nbsp;&nbsp; 1️⃣M+ Internal Links 280K+ External Links
