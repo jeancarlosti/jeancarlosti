@@ -360,7 +360,7 @@ Database Admin  side solve Feature implementation or issue if :
   * 2 gb ram
   * 70 gb storage
 
-* 5 workers gunicorn (  suggested number of workers is (2*CPU)+1 )
+* 5 virtual workers gunicorn (  suggested number of workers is (2*CPU)+1 )
 
 # Want to support the growth of Ticapsoriginal ?
 
