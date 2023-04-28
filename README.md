@@ -353,6 +353,15 @@ Database Admin  side solve Feature implementation or issue if :
 
 ![](https://ticapsoriginal.com/static/frontindex4.png)
 
+# Infra Ressourse
+
+* VPS II
+  * 2 cores
+  * 2 gb ram
+  * 70 gb storage
+
+* 5 workers gunicorn (  suggested number of workers is (2*CPU)+1 )
+
 # Want to support the growth of Ticapsoriginal ?
 
 [`Buy Ticapsoriginal a happiness with stripe `](https://www.buymeacoffee.com/ticapsoriginal) 
