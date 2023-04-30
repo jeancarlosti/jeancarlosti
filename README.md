@@ -134,7 +134,7 @@ Worker minimal day spend time 3 hours [ São Paulo Time Zone ]
 
 ## Communication
 
-Worker user [`Github`](https://github.com) or Twitter to communicate
+Worker user [`Github`](https://github.com), [`Twitter`](https://twitter.com/ticapsoriginal) or [`Medium`](https://ticapsoriginal.medium.com/) to communicate 
 
 ## Important Moments
 
