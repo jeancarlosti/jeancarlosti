@@ -305,9 +305,6 @@ Database Admin  side solve Feature implementation or issue if :
 # Delivered Metrics 2023, 12 April - 30 days of Development
 
 * [`SEO score`](https://aioseo.com/seo-analyzer/#section-advanced) : &nbsp;&nbsp; 97/100 Search Page 94/100 NetworkPage 
-* [`domain Authority`](https://websiteseochecker.com/domain-authority-checker/) : 5
-* [`page Authority`](https://websiteseochecker.com/domain-authority-checker/) : 14
-* [`moz total backlinks`](https://websiteseochecker.com/domain-authority-checker/) : 120
 * url quality : autodiscover internacionalization / [`available coverage`](https://github.com/Tinoco/Ticapsoriginal_sitemaps_url_status) / friendly 
 * Link Quality
 * Link Amount : &nbsp;&nbsp; 1️⃣M+ Internal Links 280K+ External Links
@@ -362,6 +359,20 @@ Database Admin  side solve Feature implementation or issue if :
   * 70 gb storage
 
 * 5 virtual workers gunicorn (  suggested number of workers is (2*CPU)+1 )
+
+# Domain Classification :
+
+| Rule Code | Description | Value |
+| -- | --------------------- | ------- |
+| DA | [ Domain Authority ] | [ 5 ]  |
+| PA | [ Page Authority ]   | [ 14 ] |
+| TB | [ Total Backlinks ]  | [ 120 ] |
+| QB | [ Quality Backlink ] | [ ] |
+| PQ | [ Page Quality ]     | [ ] |
+| MT | [ MozTrust ]         | [ ] |
+| SS | [ Spam Score ]       | [ ] |
+| MR | [ MozRank ]          | [ ] |
+| OS | [ On, Off Page ]     | [ ] |
 
 # Want to support the growth of Ticapsoriginal ?
 
