@@ -372,7 +372,7 @@ Database Admin  side solve Feature implementation or issue if :
 | MT | [ MozTrust ]         | [ 1 ] |
 | SS | [ Spam Score ]       | [ 1 % ] |
 | MR | [ MozRank ]          | [ 1.4 ] |
-| OS | [ On, Off Page ]     | [ 44 %] |
+| OS | [ On, Off Page ]     | [ 44 % ] |
 | BL | [ Back Links ]     | [ 33 k ] |
 | DF | [ Do Follow ]     | [ 17 k ] |
 | NF | [ No Follow ]     | [ 17 k ] |
