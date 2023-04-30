@@ -362,7 +362,7 @@ Database Admin  side solve Feature implementation or issue if :
 
 # Domain Classification :
 
-| Rule Code | Description | Value April | Values March|
+| Rule Code | Description | Values April | Values March|
 | -- | --------------------- | ------- |------- |
 | DA | [ Domain Authority ] | [ 5 ]  | [   ]  |
 | PA | [ Page Authority ]   | [ 14 ] | [   ]  |
