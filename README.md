@@ -35,14 +35,14 @@
 
 | Role               | Name  | Email   |
 | ------------------ | ------ | ------- |
-| Delivery Manager   | [Jean Tinoco] | [ticaps@ticapsoriginal] |
-| Software Architect | [Jean Tinoco] | [ticaps@ticapsoriginal] |
-| Product Owner      | [Jean Tinoco] | [ticaps@ticapsoriginal] |
-| Scrum Master       | [Jean Tinoco] | [ticaps@ticapsoriginal] |
-| Developer Front End| [Jean Tinoco] | [ticaps@ticapsoriginal] |
-| Developer Back End | [Jean Tinoco] | [ticaps@ticapsoriginal] |
-| Database Admin     | [Jean Tinoco] | [ticaps@ticapsoriginal] |
-| Tester             | [Jean Tinoco] | [ticaps@ticapsoriginal] |
+| Delivery Manager   | [Jean Tinoco] | [ticaps@ticapsoriginal.com] |
+| Software Architect | [Jean Tinoco] | [ticaps@ticapsoriginal.com] |
+| Product Owner      | [Jean Tinoco] | [ticaps@ticapsoriginal.com] |
+| Scrum Master       | [Jean Tinoco] | [ticaps@ticapsoriginal.com] |
+| Developer Front End| [Jean Tinoco] | [ticaps@ticapsoriginal.com] |
+| Developer Back End | [Jean Tinoco] | [ticaps@ticapsoriginal.com] |
+| Database Admin     | [Jean Tinoco] | [ticaps@ticapsoriginal.com] |
+| Tester             | [Jean Tinoco] | [ticaps@ticapsoriginal.com] |
 
 ## Responsibilities
 
