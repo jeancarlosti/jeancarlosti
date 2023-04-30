@@ -366,7 +366,7 @@ Database Admin  side solve Feature implementation or issue if :
 | -- | --------------------- | ------- |
 | DA | [ Domain Authority ] | [ 5 ]  |
 | PA | [ Page Authority ]   | [ 14 ] |
-| TB | [ Total Backlinks ]  | [ 120 ] |
+| TB | [ Total Backlinks ]  | [ 136 ] |
 | QB | [ Quality Backlink ] | [ 144 ] |
 | PQ | [ Page Quality ]     | [ 93 % ] |
 | MT | [ MozTrust ]         | [ 1 ] |
