@@ -364,18 +364,18 @@ Database Admin  side solve Feature implementation or issue if :
 
 | Rule Code | Description | Values April | Values May| Values June|
 | -- | --------------------- | ------- | ------- | ------- |
-| DA | [ Domain Authority ] | [ 5 ]  | [   ]  | [   ]  |
-| PA | [ Page Authority ]   | [ 14 ] | [   ]  | [   ]  |
-| TB | [ Total Backlinks ]  | [ 136 ] | [   ]  | [   ]  |
-| QB | [ Quality Backlink ] | [ 144 ] | [   ]  | [   ]  |
-| PQ | [ Page Quality ]     | [ 93 % ] | [   ]  | [   ]  |
-| MT | [ MozTrust ]         | [ 1 ] | [   ]  | [   ]  |
-| SS | [ Spam Score ]       | [ 1 % ] | [   ]  | [   ]  |
-| MR | [ MozRank ]          | [ 1.4 ] | [   ]  | [   ]  |
-| OS | [ On, Off Page ]     | [ 44 % ] | [   ]  | [   ]  |
-| BL | [ Back Links ]     | [ 33 k ] | [   ]  | [   ]  |
-| DF | [ Do Follow ]     | [ 17 k ] | [   ]  | [   ]  |
-| NF | [ No Follow ]     | [ 17 k ] | [   ]  | [   ]  |
+| DA | [ Domain Authority ] | [ 5 ]  | [ 6 ]  | [   ]  |
+| PA | [ Page Authority ]   | [ 14 ] | [ 15  ]  | [   ]  |
+| TB | [ Total Backlinks ]  | [ 136 ] | [ 159 ]  | [   ]  |
+| QB | [ Quality Backlink ] | [ 144 ] | [ 149 ]  | [   ]  |
+| PQ | [ Page Quality ]     | [ 93 % ] | [ 94 % ]  | [   ]  |
+| MT | [ MozTrust ]         | [ 1/10 ] | [ 2/10 ]  | [   ]  |
+| SS | [ Spam Score ]       | [ 1 % ] | [ 1 % ]  | [   ]  |
+| MR | [ MozRank ]          | [ 1.4 ] | [ 1.5 ]  | [   ]  |
+| OS | [ On, Off Page ]     | [ 44 % ] | [ 47 % ]  | [   ]  |
+| BL | [ Back Links ]     | [ 33 k ] | [ 33 k  ]  | [   ]  |
+| DF | [ Do Follow ]     | [ 17 k ] | [ 17 k  ]  | [   ]  |
+| NF | [ No Follow ]     | [ 17 k ] | [ 17 k  ]  | [   ]  |
 | -- | [ Engines Pages Indexation ]     | [ 2K+ ] | [   ]  | [   ]  |
 
 ## Ticapsoriginal Basic Mobile development ( will not be used ) : 
