@@ -377,6 +377,16 @@ Database Admin  side solve Feature implementation or issue if :
 | DF | [ Do Follow ]     | [ 17 k ] | [   ]  | [   ]  |
 | NF | [ No Follow ]     | [ 17 k ] | [   ]  | [   ]  |
 
+## Ticapsoriginal Basic Mobile development ( will not be used ) : 
+
+* Tested [`flutter webview`](https://pub.dev/packages/webview_flutter) 
+* Tested [`iOS webview`](https://github.com/Tinoco/Gameiios-main)
+* Considered [`Caddy Multiplataform Strategy`](https://github.com/caddyserver/caddy)
+
+## Ticapsoriginal Native Mobile app development :
+
+* Android : preparing [`Cupertino interface`](https://pub.dev/packages?q=cupertino)
+* iOS : preparing [`Uitableview`](https://developer.apple.com/documentation/uikit/uitableview) and [`Realm db`](https://realm.io)
 
 # Want to support the growth of Ticapsoriginal ?
 
