@@ -382,8 +382,8 @@ Database Admin  side solve Feature implementation or issue if :
 * Tested [`flutter webview`](https://pub.dev/packages/webview_flutter) 
 * Tested [`iOS webview`](https://github.com/Tinoco/Gameiios-main)
 * Considered [`Caddy Multiplataform Strategy`](https://github.com/caddyserver/caddy)
-    * Context, Solutions and Problem Statement : 
-Webview its simple and have easy development, generic to any web aplication rendering and Caddy expand the range considerably but loses performance and necessarily only works online, is considerably allocated and dependent on the server side.   
+    * Context, Solutions and Problem Statement: Webview is simple and easy to develop, generic to any web application rendering and Caddy expands range considerably but loses performance and necessarily only works online, are strategically strong options in range, but considerably allocated and dependent on the server side.
+  
 
 ## Ticapsoriginal Native Mobile app development :
 
