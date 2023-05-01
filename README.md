@@ -382,6 +382,7 @@ Database Admin  side solve Feature implementation or issue if :
 * Tested [`flutter webview`](https://pub.dev/packages/webview_flutter) 
 * Tested [`iOS webview`](https://github.com/Tinoco/Gameiios-main)
 * Considered [`Caddy Multiplataform Strategy`](https://github.com/caddyserver/caddy)
+
     * Context, Solutions and Problem Statement: Webview is simple and easy to develop, generic to any web application rendering and Caddy expands range considerably but loses performance and necessarily only works online, are strategically strong options in range, but considerably allocated and dependent on the server side.
   
 
@@ -389,6 +390,8 @@ Database Admin  side solve Feature implementation or issue if :
 
 * Android : preparing [`Cupertino interface`](https://pub.dev/packages?q=cupertino)
 * iOS : preparing [`Uitableview`](https://developer.apple.com/documentation/uikit/uitableview) and [`Realm db`](https://realm.io)
+
+     * Context, Solutions and Problem Statement: Ticapsoriginal mainly revolves around the search page, result page and database. This boils down nicely to a UitableView, a View and a remote or local Database. Statefull components work in a similar way. Cupertino's interface can facilitate a seamless transition between Android and iOS. Efforts on mobile can be directed towards not relying on online data or just for synchronous updating.
 
 # Want to support the growth of Ticapsoriginal ?
 
