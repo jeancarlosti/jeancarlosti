@@ -370,13 +370,13 @@ Database Admin  side solve Feature implementation or issue if :
 | QB | [ Quality Backlink ] | [ 144 ] | [ 149 ] ⬆️| [   ]  |
 | PQ | [ Page Quality ]     | [ 93 % ] | [ 94 % ] ⬆️| [   ]  |
 | MT | [ MozTrust ]         | [ 1/10 ] | [ 2/10 ] ⬆️| [   ]  |
-| SS | [ Spam Score ]       | [ 1 % ] | [ 1 % ]  | [   ]  |
+| SS | [ Spam Score ]       | [ 1 % ] | [ 1 % ] ↔| [   ]  |
 | MR | [ MozRank ]          | [ 1.4 ] | [ 1.5 ] ⬆️| [   ]  |
 | OS | [ On, Off Page ]     | [ 44 % ] | [ 47 % ] ⬆️| [   ]  |
-| BL | [ Back Links ]     | [ 33 k ] | [ 33 k ]  | [   ]  |
-| DF | [ Do Follow ]     | [ 17 k ] | [ 17 k ]  | [   ]  |
-| NF | [ No Follow ]     | [ 17 k ] | [ 17 k ]  | [   ]  |
-| -- | [ Engines Pages Indexation ]     | [ 2K+ ] | [ 2.3K+ ] ⬆️| [   ]  |
+| BL | [ Back Links ]     | [ 33 k ] | [ 33 k ] ↔| [   ]  |
+| DF | [ Do Follow ]     | [ 17 k ] | [ 17 k ] ↔| [   ]  |
+| NF | [ No Follow ]     | [ 17 k ] | [ 17 k ] ↔| [   ]  |
+| -- | [ Engines Pages Indexation ] | [ 2K+ ] | [ 2.3K+ ] ⬆️| [   ]  |
 
 ## Ticapsoriginal Basic Mobile development ( will not be used ) : 
 
