@@ -376,6 +376,7 @@ Database Admin  side solve Feature implementation or issue if :
 | BL | [ Back Links ]     | [ 33 k ] | [   ]  | [   ]  |
 | DF | [ Do Follow ]     | [ 17 k ] | [   ]  | [   ]  |
 | NF | [ No Follow ]     | [ 17 k ] | [   ]  | [   ]  |
+| -- | [ Engines Pages Indexation ]     | [ 2K+ ] | [   ]  | [   ]  |
 
 ## Ticapsoriginal Basic Mobile development ( will not be used ) : 
 
