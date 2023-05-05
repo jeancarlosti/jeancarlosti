@@ -29,7 +29,7 @@
 * [`Jean Tinoco Stackshare`](https://stackshare.io/JeanTinoco/following)
 * [`Jean Tinoco Github`](https://github.com/Tinoco/)
 
-# 🧢 [` Ticapsoriginal 7.1.01` ](https://ticapsoriginal.com/) Worker Structure
+# 🧢 [` Ticapsoriginal 7.1.02` ](https://ticapsoriginal.com/) Worker Structure
 
 **Total Team Size**: [1]
 
@@ -318,7 +318,7 @@ Database Admin  side solve Feature implementation or issue if :
 * User Engagement
 * Data Amount : &nbsp; 3K+ [`Audios`](https://ticapsoriginal.com/static/audios/ibm.mp3) &nbsp; 3K+ [`Qrcodes`](https://ticapsoriginal.com/static/qrcode/IBMqrcode.png) &nbsp; 3K+ [`Programatic design thumb`](https://github.com/Tinoco/Ticapsoriginal_programaticdesign_from_html_using_datafromdb) &nbsp; 24K+ [`Url`](https://ticapsoriginal.com/static/sitemaps2.xml) &nbsp; 2.5k+ videos 
 * Share Quality : [Twitter Facebook Whatsapp Linkedin Pinterest] [`100% coverage social share preview`](https://socialsharepreview.com/?url=https://ticapsoriginal.com) [`Open Graph protocol`](https://ogp.me) rendering 
-* Share Buttons : [Twitter Facebook Whatsapp Linkedin]
+* Share Buttons : [Twitter Facebook Whatsapp Linkedin Pinterest]
 * Growth Value
 * [`i18n`](https://en.wikipedia.org/wiki/Internationalization_and_localization) internacionalization Quality &nbsp; [`🇧🇷`](https://ticapsoriginal.com/pt-br/desembola/) &nbsp; [`🇺🇸`](https://ticapsoriginal.com/en/desembola/) &nbsp; [`🇪🇸`](https://ticapsoriginal.com/es/desembola/) &nbsp; [`🇫🇷`](https://ticapsoriginal.com/fr/desembola/) &nbsp; [`🇮🇳`](https://ticapsoriginal.com/hi/desembola/) &nbsp; [`🇯🇵`](https://ticapsoriginal.com/ja/desembola/) &nbsp; [`🇸🇦`](https://ticapsoriginal.com/ar/desembola/) &nbsp; [`🇨🇳`](https://ticapsoriginal.com/zh-hant/desembola/)
 
