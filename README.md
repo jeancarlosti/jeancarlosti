@@ -376,7 +376,7 @@ Database Admin  side solve Feature implementation or issue if :
 | BL | [ Back Links ]     | [ 33 k ] | [ 33 k ] ↔| [   ]  |
 | DF | [ Do Follow ]     | [ 17 k ] | [ 17 k ] ↔| [   ]  |
 | NF | [ No Follow ]     | [ 17 k ] | [ 17 k ] ↔| [   ]  |
-| $$ | [ [`Growth Value `](https://myworthweb.com/es/cost/ticapsoriginal.com)]     | [ 60 $ ] | [ 69,14 $ ] ⬆️| [   ]  |
+| $$ | [ [`Growth Value `](https://myworthweb.com/es/cost/ticapsoriginal.com)]     | [ 60 $ ] | [ 71,52 $ ] ⬆️| [   ]  |
 | -- | [ Engines Pages Indexation ] | [ 2K+ ] | [ 2.5K+ ] ⬆️| [   ]  |
 
 
