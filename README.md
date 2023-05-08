@@ -396,6 +396,10 @@ Database Admin  side solve Feature implementation or issue if :
 * iOS : preparing [`Uitableview`](https://developer.apple.com/documentation/uikit/uitableview), [`Realm db`](https://realm.io) and [`UrlSession`](https://developer.apple.com/documentation/foundation/urlsessiondelegate) if need http layers protocols
 
      * Context, Solutions and Problem Statement: Ticapsoriginal mainly revolves around the search page, result page and database. This boils down nicely to a UitableView, a View and a remote or local Database. Statefull components work in a similar way. Cupertino's interface can facilitate a seamless transition between Android and iOS. Efforts on mobile can be directed towards not relying on online data or just for synchronous updating.
+     
+# Ticapsoriginal Monetization Model 
+
+![](https://ticapsoriginal.com/static/monetization.png)
 
 # Want to support the growth of Ticapsoriginal ?
 
