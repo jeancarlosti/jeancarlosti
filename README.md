@@ -367,7 +367,7 @@ Database Admin  side solve Feature implementation or issue if :
 | -- | --------------------- | ------- | ------- | ------- |
 | DA | [ Domain Authority ] | [ 5 ]  | [ 6 ] ⬆️| [   ]  |
 | PA | [ Page Authority ]   | [ 14 ] | [ 15  ] ⬆️| [   ]  |
-| TB | [ Total Backlinks ]  | [ 136 ] | [ 159 ] ⬆️| [   ]  |
+| TB | [ Total Backlinks ]  | [ 136 ] | [ 161 ] ⬆️| [   ]  |
 | QB | [ Quality Backlink ] | [ 144 ] | [ 149 ] ⬆️| [   ]  |
 | PQ | [ Page Quality ]     | [ 93 % ] | [ 94 % ] ⬆️| [   ]  |
 | MT | [ MozTrust ]         | [ 1/10 ] | [ 2/10 ] ⬆️| [   ]  |
@@ -378,7 +378,7 @@ Database Admin  side solve Feature implementation or issue if :
 | DF | [ Do Follow ]     | [ 17 k ] | [ 17 k ] ↔| [   ]  |
 | NF | [ No Follow ]     | [ 17 k ] | [ 17 k ] ↔| [   ]  |
 | SB | [ (PA*0.6+DA*0.6)/10]     | [ 1.14 ] | [ 1.26 ] ⬆️| [   ]  |
-| $$ | [ [`Growth Value `](https://myworthweb.com/es/cost/ticapsoriginal.com)]     | [ 60 $ ] | [ 72,48 $ ] ⬆️| [   ]  |
+| $$ | [ [`Growth Value `](https://myworthweb.com/es/cost/ticapsoriginal.com)]     | [ 60 $ ] | [ 73,14 $ ] ⬆️| [   ]  |
 | -- | [ Engines Pages Indexation ] | [ 2K+ ] | [ 2.5K+ ] ⬆️| [   ]  |
 
 
