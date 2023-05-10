@@ -361,7 +361,7 @@ Database Admin  side solve Feature implementation or issue if :
 
 * 5 virtual workers gunicorn (  suggested number of workers is (2*CPU)+1 )
 
-# Domain Classification :
+# Domain Classification Q2  2023:
 
 | Rule Code | Description | Values April | Values May| Values June|
 | -- | --------------------- | ------- | ------- | ------- |
