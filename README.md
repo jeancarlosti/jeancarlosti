@@ -59,7 +59,8 @@
 - [x] Sets code review process
 - [x] Define Paradigms [ OOP , Components , Paralell, Protocol ]
 - [x] Building Python Packages
-- [X] [`Software UML and Authenticity`](https://github.com/Tinoco/desembola_software_engineering) 
+- [X] Define [`Software UML and Authenticity`](https://github.com/Tinoco/desembola_software_engineering) 
+- [X] Define [`Design Patterns`](https://refactoring.guru/design-patterns/proxy/python/example#example-0--main-py) 
 
 ### Product Owner
 
