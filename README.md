@@ -1,4 +1,6 @@
 ## Tinoco : Developer | Product Manager Owner  🧢
+
+![](https://media.tenor.com/l29hGmZ_xVsAAAAC/cow-walking.gif)
   
 ### Skills:
 
