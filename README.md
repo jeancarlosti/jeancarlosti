@@ -134,7 +134,11 @@ Worker minimal day spend time 3 hours [ São Paulo Time Zone ]
 
 ## Communication
 
-Worker user [`Github`](https://github.com/Tinoco), [`Twitter`](https://twitter.com/ticapsoriginal), [`Libraries.io`](https://libraries.io/github/Tinoco) or [`Medium`](https://ticapsoriginal.medium.com/) to communicate 
+Worker uses [`Github`](https://github.com/Tinoco), [`Twitter`](https://twitter.com/ticapsoriginal) or [`Medium`](https://ticapsoriginal.medium.com/) to communicate 
+
+## Versoning and publish Software
+
+[`Github`](https://github.com/Tinoco)  [`Libraries.io`](https://libraries.io/github/Tinoco)  [`Pypi Packages`](https://pypi.org/project/ticapsoriginal-sitemaps2txt/)  
 
 ## Important Moments
 
