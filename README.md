@@ -384,7 +384,7 @@ Database Admin  side solve Feature implementation or issue if :
 | DF | [ Do Follow ]     | [ 17 k ] | [ 17 k ] ↔| [   ]  |
 | NF | [ No Follow ]     | [ 17 k ] | [ 17 k ] ↔| [   ]  |
 | SB | [ (PA*0.6+DA*0.6)/10]     | [ 1.14 ] | [ 1.26 ] ⬆️| [   ]  |
-| $$ | [ [`Growth Value `](https://myworthweb.com/es/cost/ticapsoriginal.com)]     | [ 60 $ ] | [ 73,14 $ ] ⬆️| [   ]  |
+| $$ | [ [`Growth Value `](https://myworthweb.com/es/cost/ticapsoriginal.com)]     | [ 60 $ ] | [ 73,31 $ ] ⬆️| [   ]  |
 | -- | [ Engines Pages Indexation ] | [ 2K+ ] | [ 3K+ ] ⬆️| [   ]  |
 
 
