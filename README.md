@@ -60,7 +60,7 @@
 - [x] Define Paradigms [ OOP , Components , Paralell, Protocol ]
 - [x] Building Python Packages
 - [X] Define [`Software UML and Authenticity`](https://github.com/Tinoco/desembola_software_engineering) 
-- [X] Define [`Design Patterns`](https://refactoring.guru/design-patterns/proxy/python/example#example-0--main-py) 
+- [X] Define [`Design Patterns`](https://refactoring.guru/design-patterns/proxy/python/example#example-0--main-py) 👀
 
 ### Product Owner
 
@@ -303,7 +303,7 @@ Database Admin  side solve Feature implementation or issue if :
 * Improve Crawling operations
 * Improve value of Data
 
-# Ticapsoriginal Software Flow
+# Ticapsoriginal Software Flow 👀
 
 ![](https://ticapsoriginal.com/static/software.png)
 
