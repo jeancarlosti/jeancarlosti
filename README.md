@@ -1,6 +1,4 @@
 ## Tinoco : Developer | Product Manager Owner  🧢
-
-![](https://media.tenor.com/l29hGmZ_xVsAAAAC/cow-walking.gif)
   
 ### Skills:
 
@@ -381,7 +379,7 @@ Database Admin  side solve Feature implementation or issue if :
 | NF | [ No Follow ]     | [ 17 k ] | [ 17 k ] ↔| [   ]  |
 | SB | [ (PA*0.6+DA*0.6)/10]     | [ 1.14 ] | [ 1.26 ] ⬆️| [   ]  |
 | $$ | [ [`Growth Value `](https://myworthweb.com/es/cost/ticapsoriginal.com)]     | [ 60 $ ] | [ 73,14 $ ] ⬆️| [   ]  |
-| -- | [ Engines Pages Indexation ] | [ 2K+ ] | [ 2.5K+ ] ⬆️| [   ]  |
+| -- | [ Engines Pages Indexation ] | [ 2K+ ] | [ 3K+ ] ⬆️| [   ]  |
 
 
 ## Ticapsoriginal Basic Mobile development ( will not be used ) : 
