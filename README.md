@@ -58,7 +58,8 @@
 - [x] New developer onboarding
 - [x] Sets code review process
 - [x] Define Paradigms [ OOP , Components , Paralell, Protocol ]
-- [x] Building Python Packages 
+- [x] Building Python Packages
+- [X] [`Software UML and Authenticity`](https://github.com/Tinoco/desembola_software_engineering) 
 
 ### Product Owner
 
@@ -136,7 +137,7 @@ Worker minimal day spend time 3 hours [ São Paulo Time Zone ]
 
 Worker uses [`Github`](https://github.com/Tinoco), [`Twitter`](https://twitter.com/ticapsoriginal) or [`Medium`](https://ticapsoriginal.medium.com/) to communicate 
 
-## Versoning and publish Software
+## Versioning and publish Software
 
 [`Github`](https://github.com/Tinoco)  [`Libraries.io`](https://libraries.io/github/Tinoco)  [`Pypi Packages`](https://pypi.org/project/ticapsoriginal-sitemaps2txt/)  
 
