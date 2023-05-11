@@ -134,7 +134,7 @@ Worker minimal day spend time 3 hours [ São Paulo Time Zone ]
 
 ## Communication
 
-Worker user [`Github`](https://github.com/Tinoco), [`Twitter`](https://twitter.com/ticapsoriginal) or [`Medium`](https://ticapsoriginal.medium.com/) to communicate 
+Worker user [`Github`](https://github.com/Tinoco), [`Twitter`](https://twitter.com/ticapsoriginal), [`Libraries.io`](https://libraries.io/github/Tinoco) or [`Medium`](https://ticapsoriginal.medium.com/) to communicate 
 
 ## Important Moments
 
