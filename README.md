@@ -28,6 +28,7 @@
 * [`Jean Tinoco Linkedin`](https://www.linkedin.com/in/jeantinocopmo/)
 * [`Jean Tinoco Stackshare`](https://stackshare.io/JeanTinoco/following)
 * [`Jean Tinoco Github`](https://github.com/Tinoco/)
+* [`Jean Tinoco Youtube Channel`](https://www.youtube.com/watch?v=rhfpSfLLNKY)
 
 # 🧢 [` Ticapsoriginal 7.1.02` ](https://ticapsoriginal.com/) Worker Structure
 
