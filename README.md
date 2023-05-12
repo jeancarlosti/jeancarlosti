@@ -385,7 +385,7 @@ Database Admin  side solve Feature implementation or issue if :
 | DF | [ Do Follow ]     | [ 17 k ] | [ 17 k ] ↔| [   ]  |
 | NF | [ No Follow ]     | [ 17 k ] | [ 17 k ] ↔| [   ]  |
 | SB | [ (PA*0.6+DA*0.6)/10]     | [ 1.14 ] | [ 1.26 ] ⬆️| [   ]  |
-| $$ | [ [`Growth Value `](https://myworthweb.com/es/cost/ticapsoriginal.com)]     | [ 60 $ ] | [ 73,31 $ ] ⬆️| [   ]  |
+| $$ | [ [`Growth Value `](https://myworthweb.com/es/cost/ticapsoriginal.com)]     | [ 60 $ ] | [ 99,34 $ ] ⬆️| [   ]  |
 | -- | [ Engines Pages Indexation ] | [ 2K+ ] | [ 3K+ ] ⬆️| [   ]  |
 
 
@@ -405,9 +405,13 @@ Database Admin  side solve Feature implementation or issue if :
 
      * Context, Solutions and Problem Statement: Ticapsoriginal mainly revolves around the search page, result page and database. This boils down nicely to a UitableView, a View and a remote or local Database. Statefull components work in a similar way. Cupertino's interface can facilitate a seamless transition between Android and iOS. Efforts on mobile can be directed towards not relying on online data or just for synchronous updating.
      
-# Ticapsoriginal Monetization Model 
+# Ticapsoriginal Monetization Model Projection :
 
 ![](https://ticapsoriginal.com/static/monetization.png)
+
+# Ticapsoriginal Real Monetization per day : 
+
+![](https://ticapsoriginal.com/static/perday.png)
 
 # Want to support the growth of Ticapsoriginal ?
 
