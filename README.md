@@ -309,7 +309,7 @@ Database Admin  side solve Feature implementation or issue if :
 ![](https://ticapsoriginal.com/static/software.png)
 
 
-# Delivered Metrics 2023, 12 April - 30 days of Development
+# Delivered Metrics 2023, 12 May - 60 days of Development
 
 * [`SEO score`](https://aioseo.com/seo-analyzer/#section-advanced) : &nbsp;&nbsp; 97/100 Search Page 94/100 NetworkPage 
 * url quality : autodiscover internacionalization / [`available coverage`](https://github.com/Tinoco/Ticapsoriginal_sitemaps_url_status) / friendly 
@@ -385,7 +385,7 @@ Database Admin  side solve Feature implementation or issue if :
 | DF | [ Do Follow ]     | [ 17 k ] | [ 17 k ] ↔| [   ]  |
 | NF | [ No Follow ]     | [ 17 k ] | [ 17 k ] ↔| [   ]  |
 | SB | [ (PA*0.6+DA*0.6)/10]     | [ 1.14 ] | [ 1.26 ] ⬆️| [   ]  |
-| $$ | [ [`Growth Value `](https://myworthweb.com/es/cost/ticapsoriginal.com)]     | [ 60 $ ] | [ 99,34 $ ] ⬆️| [   ]  |
+| $$ | [ [`Growth Value `](https://myworthweb.com/es/cost/ticapsoriginal.com)]     | [ 60 $ ] | [ 97,34 $ ] ⬇️| [   ]  |
 | -- | [ Engines Pages Indexation ] | [ 2K+ ] | [ 3K+ ] ⬆️| [   ]  |
 
 
