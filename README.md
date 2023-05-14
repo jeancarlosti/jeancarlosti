@@ -165,6 +165,7 @@ Below is the table of important events.
 | [`Django`](https://www.djangoproject.com) | [4.0] | [Yes] | [cve] |
 | [`Rockylinux`](https://rockylinux.org) | [9.0] | [Yes] | [cve] |
 | [`Bulma Css`](https://bulma.io) | [0.9.4] | [Yes] | [cve] |
+| [`Ionic icons`](https://ionic.io/ionicons) | [7.1.0] | [Yes] | [cve] |
 | [`Vim`](https://www.vim.org) | [8.1] | [Yes] | [`cve`](https://www.cvedetails.com/vulnerability-list/vendor_id-8218/opec-1/VIM.html) |
 | [`iTerm2`](https://www.vim.org) | [3.4] | [Yes] | [`cve`](https://www.cvedetails.com/vulnerability-list/vendor_id-17010/Iterm2.html) |
 | [`Sublime Text`](https://www.sublimetext.com) | [4143] | [Yes] | [`cve`](https://www.cvedetails.com/vulnerability-list/vendor_id-16677/product_id-38805/Sublimetext-Sublime-Text-3.html) |
