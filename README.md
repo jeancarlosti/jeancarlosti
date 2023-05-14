@@ -373,20 +373,20 @@ Database Admin  side solve Feature implementation or issue if :
 | Rule Code | Description | Values April | Values May| Values June|
 | -- | --------------------- | ------- | ------- | ------- |
 | DA | [ Domain Authority ] | [ 5 ]  | [ 6 ] ⬆️| [   ]  |
-| PA | [ Page Authority ]   | [ 14 ] | [ 15  ] ⬆️| [   ]  |
+| PA | [ Page Authority ]   | [ 14 ] | [ 16  ] ⬆️| [   ]  |
 | TB | [ Total Backlinks ]  | [ 136 ] | [ 161 ] ⬆️| [   ]  |
 | QB | [ Quality Backlink ] | [ 144 ] | [ 149 ] ⬆️| [   ]  |
 | PQ | [ Page Quality ]     | [ 93 % ] | [ 94 % ] ⬆️| [   ]  |
 | MT | [ MozTrust ]         | [ 1/10 ] | [ 2/10 ] ⬆️| [   ]  |
 | SS | [ Spam Score ]       | [ 1 % ] | [ 1 % ] ↔| [   ]  |
-| MR | [ MozRank ]          | [ 1.4 ] | [ 1.5 ] ⬆️| [   ]  |
+| MR | [ MozRank ]          | [ 1.4 ] | [ 1.6 ] ⬆️| [   ]  |
 | OS | [ On, Off Page ]     | [ 44 % ] | [ 47 % ] ⬆️| [   ]  |
 | BL | [ Back Links ]     | [ 33 k ] | [ 33 k ] ↔| [   ]  |
 | DF | [ Do Follow ]     | [ 17 k ] | [ 17 k ] ↔| [   ]  |
 | NF | [ No Follow ]     | [ 17 k ] | [ 17 k ] ↔| [   ]  |
-| SB | [ (PA*0.6+DA*0.6)/10]     | [ 1.14 ] | [ 1.26 ] ⬆️| [   ]  |
+| SB | [ (PA*0.6+DA*0.6)/10]     | [ 1.14 ] | [ 1.32 ] ⬆️| [   ]  |
 | $$ | [ [`Growth Value `](https://myworthweb.com/es/cost/ticapsoriginal.com)]     | [ 60 $ ] | [ 97,34 $ ] ⬇️| [   ]  |
-| -- | [ Engines Pages Indexation ] | [ 2K+ ] | [ 3K+ ] ⬆️| [   ]  |
+| -- | [ Engines Pages Indexation ] | [ 2K+ ] | [ 4K+ ] ⬆️| [   ]  |
 
 
 ## Ticapsoriginal Basic Mobile development ( will not be used ) : 
