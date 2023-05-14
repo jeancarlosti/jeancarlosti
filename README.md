@@ -391,13 +391,14 @@ Database Admin  side solve Feature implementation or issue if :
 # Goals :
 
 | Goal| Description | bronze 🥉| silver 🥈| gold 🥇| Status|
-| -- | --------------------- | ------- | ------- | ------- |
-| Growth strategist | [ Website worth value] | [ 100 $ ] | [ 1000 $ ] | [ 10000 $ ]  |🥉 |
-| Link mastering| [ Back + Intern Links ]   | [ 1 M ] | [ 2M  ] | [ ? ]  |🥉 |
-| Networking Pages | [ Intelectual Knowhow ]  | [ 24k ] | [ 40k ] | [ ?  ]  |🥉 |
-| 10 + Engine masterig | [ Indexed Pages ]  | [ 4K ] | [ 10k ] | [ ?  ]  |🥉 |
-| Seo Especialist | [ Seo Score]  | [ 80 ] | [ 90 ] | [ 100  ]  |🥉 |
-| SB mastering | [ SB Score]  | [ 2 ] | [ 5 ] | [ ?  ]  | |
+| -- | --------------------- | ------- | ------- | ------- |------- |
+| Growth strategist |  Website worth value |  100 $  |  1000 $  |  10000 $   |🥉 |
+| Link mastering|  Back + Intern Links    |  1 M  |  2M   |  ?   |🥉 |
+| Networking Pages |  Intelectual Knowhow   |  24k  |  40k  |  ?  |🥉 |
+| 10 + Engine masterig |  Indexed Pages   |  4K  |  10k  |  ?    |🥉 |
+| Seo Especialist |  Seo Score  |  80  |  90  |  100    |🥉 |
+| SB mastering |  SB Score  |  2  |  5  |  ?    | |
+| Range mastering |  Software range  |  web  |  web + android  |  web + android + ios  |🥉 |
 
 
 ## Ticapsoriginal Basic Mobile development ( will not be used ) : 
