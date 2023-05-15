@@ -399,6 +399,7 @@ Database Admin  side solve Feature implementation or issue if :
 | 10 + Engine masterig |  Indexed Pages   |  4K  |  10k  |      |🥉 |
 | Seo Especialist |  Seo Score  |  80  |  90  |  100    |🥉 |
 | SB mastering |  SB Score  |  2  |  5  |      | |
+| i18n mastering |  i18 Coverage  |  50%  |  80%  |  100%    |🥉 |
 | Range mastering |  Software range  |  web  |  web + android  |  web + android + ios  |🥉 |
 
 
