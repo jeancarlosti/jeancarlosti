@@ -375,8 +375,8 @@ Database Admin  side solve Feature implementation or issue if :
 | -- | --------------------- | ------- | ------- | ------- |
 | DA | [ Domain Authority ] | [ 5 ]  | [ 6 ] ⬆️| [   ]  |
 | PA | [ Page Authority ]   | [ 14 ] | [ 16  ] ⬆️| [   ]  |
-| TB | [ Total Backlinks ]  | [ 136 ] | [ 161 ] ⬆️| [   ]  |
-| QB | [ Quality Backlink ] | [ 144 ] | [ 149 ] ⬆️| [   ]  |
+| TB | [ Total Backlinks ]  | [ 136 ] | [ 162 ] ⬆️| [   ]  |
+| QB | [ Quality Backlink ] | [ 144 ] | [ 150 ] ⬆️| [   ]  |
 | PQ | [ Page Quality ]     | [ 93 % ] | [ 94 % ] ⬆️| [   ]  |
 | MT | [ MozTrust ]         | [ 1/10 ] | [ 2/10 ] ⬆️| [   ]  |
 | SS | [ Spam Score ]       | [ 1 % ] | [ 1 % ] ↔| [   ]  |
