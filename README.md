@@ -316,7 +316,7 @@ Database Admin  side solve Feature implementation or issue if :
 * url quality : autodiscover internacionalization / [`available coverage`](https://github.com/Tinoco/Ticapsoriginal_sitemaps_url_status) / friendly 
 * Link Quality
 * Link Amount : &nbsp;&nbsp; 1️⃣M+ Internal Links 280K+ External Links
-* Data Quality
+* Data Quality : twitter data / [`wikipedia data`](https://en.wikipedia.org/wiki/Main_Page) / headers data 
 * Information Quality : &nbsp;&nbsp; 3k+ Networking Services and Companies
 * Service availability : &nbsp;&nbsp; 🟢 Active
 * Page Speed Test : &nbsp;&nbsp; 65+ Performance Mobile 95+ Performance Desktop 90+ Accessibility Mobile and Desktop
