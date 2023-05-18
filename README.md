@@ -30,7 +30,7 @@
 * [`Jean Tinoco Github`](https://github.com/Tinoco/)
 * [`Jean Tinoco Youtube Channel`](https://www.youtube.com/watch?v=rhfpSfLLNKY)
 
-# 🧢 [` Ticapsoriginal 7.1.02` ](https://ticapsoriginal.com/) Worker Structure
+# 🧢 [` Ticapsoriginal 7.1.05` ](https://ticapsoriginal.com/) Worker Structure
 
 **Total Team Size**: [1]
 
@@ -312,6 +312,10 @@ Database Admin  side solve Feature implementation or issue if :
 
 # Delivered Metrics 2023, 12 May - 60 days of Development
 
+* adjusted www and non-www redirects
+* adjusted hreflangs routes
+* adjusted ads.txt and sitemaps.xml routes 
+* adjusted dynamic keywords
 * [`SEO score`](https://aioseo.com/seo-analyzer/#section-advanced) : &nbsp;&nbsp; 97/100 Search Page 94/100 NetworkPage 
 * url quality : autodiscover internacionalization / [`available coverage`](https://github.com/Tinoco/Ticapsoriginal_sitemaps_url_status) / friendly 
 * Link Quality
