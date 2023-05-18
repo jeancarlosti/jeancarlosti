@@ -181,7 +181,14 @@ Worker developer have tools mentioned here installed on their machine.
 
 ## Cli command-line configuration
 
-Configured [`bash`](https://www.gnu.org/software/bash/)  Shell  and  Zsh  [`shortcuts and alias files`](https://github.com/Tinoco/Ticapsoriginal_zshrc_shortcuts) 
+Configured [`bash`](https://www.gnu.org/software/bash/)  Shell  and  Zsh  [`shortcuts and alias files`](https://github.com/Tinoco/Ticapsoriginal_zshrc_shortcuts)
+
+## Social Media
+
+*  [`Facebook`](https://www.facebook.com/ticapsoriginal) 
+*  [`Blogger`](https://ticapsoriginal.blogspot.com/2023/04/blog-post.html) 
+*  [`linktr.ee`](https://linktr.ee/ticapsoriginal) 
+*  [`Instagram`](https://www.instagram.com/ticaps.original/) 
 
 # Accounts
 
@@ -312,9 +319,13 @@ Database Admin  side solve Feature implementation or issue if :
 
 # Delivered Metrics 2023, 12 May - 60 days of Development
 
+* [`Legal Advisory page`](https://hidedomain.info/ticapsoriginal/advisory/)
+* [`About Page`](https://hidedomain.info/ticapsoriginal/about/)
+* [`Bug Report Page`](https://hidedomain.info/ticapsoriginal/bugreport/)
+* Created Ticapsoriginal Services Section 
 * adjusted www and non-www redirects
 * adjusted hreflangs routes
-* adjusted ads.txt and sitemaps.xml routes 
+* adjusted [`ads.txt`](https://ticapsoriginal.com/ads.txt) and sitemaps.xml routes 
 * adjusted dynamic keywords
 * [`SEO score`](https://aioseo.com/seo-analyzer/#section-advanced) : &nbsp;&nbsp; 97/100 Search Page 94/100 NetworkPage 
 * url quality : autodiscover internacionalization / [`available coverage`](https://github.com/Tinoco/Ticapsoriginal_sitemaps_url_status) / friendly 
@@ -378,8 +389,9 @@ Database Admin  side solve Feature implementation or issue if :
 | Rule Code | Description | Values April | Values May| Values June|
 | -- | --------------------- | ------- | ------- | ------- |
 | DA | [ Domain Authority ] | [ 5 ]  | [ 6 ] ⬆️| [   ]  |
+| CF | [ Citation Flow ]   | [ 15 ] | [ 18  ] ⬆️| [   ]  |
 | PA | [ Page Authority ]   | [ 14 ] | [ 16  ] ⬆️| [   ]  |
-| TB | [ Total Backlinks ]  | [ 136 ] | [ 162 ] ⬆️| [   ]  |
+| TB | [ Total Backlinks ]  | [ 136 ] | [ 163 ] ⬆️| [   ]  |
 | QB | [ Quality Backlink ] | [ 144 ] | [ 150 ] ⬆️| [   ]  |
 | PQ | [ Page Quality ]     | [ 93 % ] | [ 92 % ] ⬇️| [   ]  |
 | MT | [ MozTrust ]         | [ 1/10 ] | [ 2/10 ] ⬆️| [   ]  |
