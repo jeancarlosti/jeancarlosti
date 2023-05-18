@@ -323,6 +323,11 @@ Database Admin  side solve Feature implementation or issue if :
 * [`About Page`](https://hidedomain.info/ticapsoriginal/about/)
 * [`Bug Report Page`](https://hidedomain.info/ticapsoriginal/bugreport/)
 * Created Ticapsoriginal Services Section 
+   * Sitemaps 2 txt
+   * Website overview
+   * Full website reading averange time
+   * Web site links status
+
 * adjusted www and non-www redirects
 * adjusted hreflangs routes
 * adjusted [`ads.txt`](https://ticapsoriginal.com/ads.txt) and sitemaps.xml routes 
