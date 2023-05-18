@@ -453,9 +453,9 @@ Database Admin  side solve Feature implementation or issue if :
 
 ![](https://ticapsoriginal.com/static/monetization.png)
 
-# Ticapsoriginal Real Monetization per day : 
+# Ticapsoriginal Real Monetization averange April: 
 
-![](https://ticapsoriginal.com/static/perday.png)
+![](https://ticapsoriginal.com/static/perweek.png)
 
 # Want to support the growth of Ticapsoriginal ?
 
