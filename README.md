@@ -409,7 +409,7 @@ Database Admin  side solve Feature implementation or issue if :
 | DF | [ Do Follow ]     | [ 17 k ] | [ 17 k ] ↔| [   ]  |
 | NF | [ No Follow ]     | [ 17 k ] | [ 17 k ] ↔| [   ]  |
 | SB | [ (PA*0.6+DA*0.6)/10]     | [ 1.14 ] | [ 1.32 ] ⬆️| [   ]  |
-| $$ | [ [`Growth Value `](https://myworthweb.com/es/cost/ticapsoriginal.com)]     | [ 60 $ ] | [ 148,78 $ ] ⬆️| [   ]  |
+| $$ | [ [`Growth Value `](https://website-value.devtoolspro.com/index.php?site=ticapsoriginal.com&update)]     | [ 60 $ ] | [ 500$ + ] ⬆️| [   ]  |
 | -- | [ Engines Pages Indexation ] | [ 2K+ ] | [ 4K+ ] ⬆️| [   ]  |
 
 # Goals :
