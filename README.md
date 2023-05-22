@@ -457,9 +457,18 @@ Database Admin  side solve Feature implementation or issue if :
 
 ![](https://ticapsoriginal.com/static/perweek.png)
 
-# Task management: 
+# Worker work flow Tasks audit management: 
 
-[`Worker work flow Tasks audit may `](https://ticapsoriginal.com/static/taskmaster.pdf)
+ * [`Worker work flow Tasks audit Seo on page report  `](https://ticapsoriginal.com/static/taskmaster.pdf)
+ * Worker work flow Tasks devops (not accounted for)
+ * Worker work flow Tasks design (not accounted for)
+ * Worker work flow Tasks back and front end (not accounted for)
+ * Worker work flow Tasks dba (not accounted for)
+ * Worker work flow Tasks datamining (not accounted for)
+ * Worker work flow Tasks security (not accounted for)
+ * Worker work flow Tasks datamining (not accounted for)
+ * Worker work flow Tasks socialmedia (not accounted for)
+ * Worker work flow Tasks administration (not accounted for) 
 
 # Want to support the growth of Ticapsoriginal ?
 
