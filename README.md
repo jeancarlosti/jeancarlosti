@@ -457,6 +457,10 @@ Database Admin  side solve Feature implementation or issue if :
 
 ![](https://ticapsoriginal.com/static/perweek.png)
 
+# Task management: 
+
+[`Worker work flow Tasks audit may `](https://ticapsoriginal.com/static/taskmaster.pdf)
+
 # Want to support the growth of Ticapsoriginal ?
 
 [`Buy Ticapsoriginal a happiness with stripe `](https://www.buymeacoffee.com/ticapsoriginal) 
