@@ -395,11 +395,11 @@ Database Admin  side solve Feature implementation or issue if :
 
 | Rule Code | Description | Values April | Values May| Values June|
 | -- | --------------------- | ------- | ------- | ------- |
-| DA | [ Domain Authority ] | [ 5 ]  | [ 6 ] ⬆️| [   ]  |
+| DA | [ Domain Authority ] | [ 5 ]  | [ 7 ] ⬆️| [   ]  |
 | CF | [ Citation Flow ]   | [ 15 ] | [ 18  ] ⬆️| [   ]  |
 | PA | [ Page Authority ]   | [ 14 ] | [ 16  ] ⬆️| [   ]  |
-| TB | [ Total Backlinks ]  | [ 136 ] | [ 163 ] ⬆️| [   ]  |
-| QB | [ Quality Backlink ] | [ 144 ] | [ 150 ] ⬆️| [   ]  |
+| TB | [ Total Backlinks ]  | [ 136 ] | [ 184 ] ⬆️| [   ]  |
+| QB | [ Quality Backlink ] | [ 144 ] | [ 171 ] ⬆️| [   ]  |
 | PQ | [ Page Quality ]     | [ 93 % ] | [ 92 % ] ⬇️| [   ]  |
 | MT | [ MozTrust ]         | [ 1/10 ] | [ 2/10 ] ⬆️| [   ]  |
 | SS | [ Spam Score ]       | [ 1 % ] | [ 1 % ] ↔| [   ]  |
@@ -408,7 +408,7 @@ Database Admin  side solve Feature implementation or issue if :
 | BL | [ Back Links ]     | [ 33 k ] | [ 33 k ] ↔| [   ]  |
 | DF | [ Do Follow ]     | [ 17 k ] | [ 17 k ] ↔| [   ]  |
 | NF | [ No Follow ]     | [ 17 k ] | [ 17 k ] ↔| [   ]  |
-| SB | [ (PA*0.6+DA*0.6)/10]     | [ 1.14 ] | [ 1.32 ] ⬆️| [   ]  |
+| SB | [ (PA*0.6+DA*0.6)/10]     | [ 1.14 ] | [ 1.38 ] ⬆️| [   ]  |
 | $$ | [ [`Worth Value `](https://website-value.devtoolspro.com/index.php?site=ticapsoriginal.com&update)]     | [ 60 $ ] | [ 500$ + ] ⬆️| [   ]  |
 | -- | [ Engines Pages Indexation ] | [ 2K+ ] | [ 4K+ ] ⬆️| [   ]  |
 
