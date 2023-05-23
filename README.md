@@ -474,3 +474,5 @@ Database Admin  side solve Feature implementation or issue if :
 
 [`Buy Ticapsoriginal a happiness with stripe `](https://www.buymeacoffee.com/ticapsoriginal) 
 [`Improve Ticapsoriginal growth with paypal `](https://www.paypal.com/donate/?hosted_button_id=HAPS7PD5JCCTA)
+
+---------------------------------------------//-------------------------------------------
