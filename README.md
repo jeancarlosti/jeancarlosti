@@ -398,16 +398,16 @@ Database Admin  side solve Feature implementation or issue if :
 | DA | [ Domain Authority ] | [ 5 ]  | [ 7 ] ⬆️| [   ]  |
 | CF | [ Citation Flow ]   | [ 15 ] | [ 18  ] ⬆️| [   ]  |
 | PA | [ Page Authority ]   | [ 14 ] | [ 16  ] ⬆️| [   ]  |
-| TB | [ Total Backlinks ]  | [ 136 ] | [ 184 ] ⬆️| [   ]  |
-| QB | [ Quality Backlink ] | [ 144 ] | [ 171 ] ⬆️| [   ]  |
+| TB | [ Total Backlinks ]  | [ 136 ] | [ 185 ] ⬆️| [   ]  |
+| QB | [ Quality Backlink ] | [ 144 ] | [ 172 ] ⬆️| [   ]  |
 | PQ | [ Page Quality ]     | [ 93 % ] | [ 92 % ] ⬇️| [   ]  |
 | MT | [ MozTrust ]         | [ 1/10 ] | [ 2/10 ] ⬆️| [   ]  |
 | SS | [ Spam Score ]       | [ 1 % ] | [ 1 % ] ↔| [   ]  |
 | MR | [ MozRank ]          | [ 1.4 ] | [ 1.6 ] ⬆️| [   ]  |
 | OS | [ On, Off Page ]     | [ 44 % ] | [ 47 % ] ⬆️| [   ]  |
-| BL | [ Back Links ]     | [ 33 k ] | [ 33 k ] ↔| [   ]  |
-| DF | [ Do Follow ]     | [ 17 k ] | [ 17 k ] ↔| [   ]  |
-| NF | [ No Follow ]     | [ 17 k ] | [ 17 k ] ↔| [   ]  |
+| BL | [ Back Links ]     | [ 33 k ] | [ 38 k ] ⬆️| [   ]  |
+| DF | [ Do Follow ]     | [ 17 k ] | [ 19 k ] ⬆️| [   ]  |
+| NF | [ No Follow ]     | [ 17 k ] | [ 19 k ] ⬆️| [   ]  |
 | SB | [ (PA*0.6+DA*0.6)/10]     | [ 1.14 ] | [ 1.38 ] ⬆️| [   ]  |
 | $$ | [ [`Worth Value `](https://website-value.devtoolspro.com/index.php?site=ticapsoriginal.com&update)]     | [ 60 $ ] | [ 500$ + ] ⬆️| [   ]  |
 | -- | [ Engines Pages Indexation ] | [ 2K+ ] | [ 4K+ ] ⬆️| [   ]  |
@@ -417,7 +417,7 @@ Database Admin  side solve Feature implementation or issue if :
 | Goal| Description | bronze 🥉| silver 🥈| gold 🥇| Status|
 | -- | --------------------- | ------- | ------- | ------- |------- |
 | Growth strategist |  Website worth value |  100 $  |  1000 $  |  10000 $   |🥉 |
-| Link mastering|  Back + Intern Links    |  1M  |  2M   |     |🥉 |
+| Link mastering|  Total Links    |  1M  |  2M   |     |🥉 |
 | Networking Pages |  Intelectual Knowhow   |  3k  |  4k  |    |🥉 |
 | 10 + Engine masterig |  Indexed Pages   |  4K  |  10k  |      |🥉 |
 | Seo Especialist |  Seo Score  |  80  |  90  |  100    |🥈 |
