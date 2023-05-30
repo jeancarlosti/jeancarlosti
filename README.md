@@ -334,7 +334,7 @@ Database Admin  side solve Feature implementation or issue if :
 * [`SEO score`](https://aioseo.com/seo-analyzer/#section-advanced) : &nbsp;&nbsp; 97/100 Search Page 94/100 NetworkPage 
 * url quality : autodiscover internacionalization / [`available coverage`](https://github.com/Tinoco/Ticapsoriginal_sitemaps_url_status) / friendly 
 * Link Quality : fixed 404 broken pages
-* Link Amount : &nbsp;&nbsp; 1️⃣M+ Internal Links 280K+ External Links
+* Link Amount : &nbsp;&nbsp; 2️⃣ M+ Internal Links + External Links
 * Data Quality : twitter data / [`wikipedia data`](https://en.wikipedia.org/wiki/Main_Page) / headers data /  [`google maps data`](https://www.google.com/maps?ll=41.136425,-73.714277&z=10&t=m&hl=pt-BR&gl=US&mapclient=embed&q=Armonk+Nova+York+10504+EUA)
 * Information Quality : &nbsp;&nbsp; 3k+ Networking Services and Companies
 * Service availability : &nbsp;&nbsp; 🟢 Active
@@ -400,7 +400,7 @@ Database Admin  side solve Feature implementation or issue if :
 | PA | [ Page Authority ]   | [ 14 ] | [ 16  ] ⬆️| [   ]  |
 | TB | [ Total Backlinks ]  | [ 136 ] | [ 187 ] ⬆️| [   ]  |
 | QB | [ Quality Backlink ] | [ 144 ] | [ 172 ] ⬆️| [   ]  |
-| PQ | [ Page Quality ]     | [ 93 % ] | [ 92 % ] ⬇️| [   ]  |
+| PQ | [ Page Quality ]     | [ 93 % ] | [ 93 % ] ↔| [   ]  |
 | MT | [ MozTrust ]         | [ 1/10 ] | [ 2/10 ] ⬆️| [   ]  |
 | SS | [ Spam Score ]       | [ 1 % ] | [ 1 % ] ↔| [   ]  |
 | MR | [ MozRank ]          | [ 1.4 ] | [ 1.6 ] ⬆️| [   ]  |
@@ -409,7 +409,7 @@ Database Admin  side solve Feature implementation or issue if :
 | DF | [ Do Follow ]     | [ 17 k ] | [ 19 k ] ⬆️| [   ]  |
 | NF | [ No Follow ]     | [ 17 k ] | [ 19 k ] ⬆️| [   ]  |
 | SB | [ (PA*0.6+DA*0.6)/10]     | [ 1.14 ] | [ 1.38 ] ⬆️| [   ]  |
-| $$ | [ [`Worth Value `](https://website-value.devtoolspro.com/index.php?site=ticapsoriginal.com&update)]     | [ 60 $ ] | [ 500$ + ] ⬆️| [   ]  |
+| $$ | [ [`Worth Value `](https://website-value.devtoolspro.com/index.php?site=ticapsoriginal.com&update)]     | [ 60 $ ] | [ 580$ + ] ⬆️| [   ]  |
 | -- | [ Engines Pages Indexation ] | [ 2K+ ] | [ 6K+ ] ⬆️| [   ]  |
 
 # Goals :
@@ -417,9 +417,9 @@ Database Admin  side solve Feature implementation or issue if :
 | Goal| Description | bronze 🥉| silver 🥈| gold 🥇| Status|
 | -- | --------------------- | ------- | ------- | ------- |------- |
 | Growth strategist |  Website worth value |  100 $  |  1000 $  |  10000 $   |🥉 |
-| Link mastering|  Total Links    |  1M  |  2M   |     |🥉 |
+| Link mastering|  Total Links    |  1M  |  2M   |     |🥈 |
 | Networking Pages |  Intelectual Knowhow   |  3k  |  4k  |    |🥉 |
-| 10 + Engine masterig |  Indexed Pages   |  4K  |  10k  |      |🥉 |
+| 10 + Engine masterig |  Indexed Pages   |  5K  |  10k  |      |🥉 |
 | Seo Especialist |  Seo Score  |  80  |  90  |  100    |🥈 |
 | SB mastering |  SB Score  |  2  |  5  |      | |
 | i18n mastering |  i18 Coverage  |  50%  |  80%  |  100%    |🥉 |
@@ -442,9 +442,8 @@ Database Admin  side solve Feature implementation or issue if :
 
      * Context, Solutions and Problem Statement: Ticapsoriginal mainly revolves around the search page, result page and database. This boils down nicely to a UitableView, a View and a remote or local Database. Statefull components work in a similar way. Cupertino's interface can facilitate a seamless transition between Android and iOS. Efforts on mobile can be directed towards not relying on online data or just for synchronous updating.
 
-## Ticapsoriginal new design [`7.2.02`](https://github.com/Tinoco/Ticapsoriginal_template_design_7.2.02) in homologation
+## Ticapsoriginal new design [`7.2.02`](https://github.com/Tinoco/Ticapsoriginal_template_design_7.2.02) 
 
-* expected Link Amount : 1️⃣.9M+ Internal Links + External Links
 * expected more user engagement
 * expected better user visual experience
 
