@@ -397,7 +397,7 @@ Database Admin  side solve Feature implementation or issue if :
 | -- | --------------------- | ------- | ------- | ------- |
 | DA | [ Domain Authority ] | [ 5 ]  | [ 7 ] ⬆️| [ 7 ]  ↔|
 | CF | [ Citation Flow ]   | [ 15 ] | [ 18  ] ⬆️| [ 18 ]  ↔|
-| PA | [ Page Authority ]   | [ 14 ] | [ 16  ] ⬆️| [  17 ]  ↔|
+| PA | [ Page Authority ]   | [ 14 ] | [ 16  ] ⬆️| [  17 ]   ⬆️|
 | TB | [ Total Backlinks ]  | [ 136 ] | [ 187 ] ⬆️| [ 188 ]  ⬆️|
 | QB | [ Quality Backlink ] | [ 144 ] | [ 172 ] ⬆️| [ 173  ]  ⬆️|
 | PQ | [ Page Quality ]     | [ 93 % ] | [ 93 % ] ↔| [ 92 % ]  ↔|
