@@ -473,6 +473,14 @@ Database Admin  side solve Feature implementation or issue if :
  * Worker work flow Tasks socialmedia (not accounted for)
  * Worker work flow Tasks administration (not accounted for) 
 
+# Ticapsoriginal Podcast Channel ( Brasilian Portuguese ) : 
+
+ * [`Ticapsoriginal podcast on Spotify`](https://open.spotify.com/show/3YC9zrzLDdmTyOXexew30C)
+ * [`Ticapsoriginal podcast on  Amazon Music`](https://music.amazon.com.br/podcasts/83c72657-d8af-459b-b6f8-200621dafa3c/ticapsoriginal)
+ * [`Ticapsoriginal podcast on  Google Podcasts`](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9lMzExYjU3OC9wb2RjYXN0L3Jzcw)
+ * [`Ticapsoriginal podcast on  Radio Public`](https://radiopublic.com/ticapsoriginal-6pvD2L/episodes)
+
+
 # Want to support the growth of Ticapsoriginal ?
 
 [`Buy Ticapsoriginal a happiness with stripe `](https://www.buymeacoffee.com/ticapsoriginal) 
