@@ -466,7 +466,7 @@ Database Admin  side solve Feature implementation or issue if :
  * Entity Relations
  * Entropy Relations
  * Affinity Relations
- * [`Tag Resources`](https://ticapsoriginal.com/static/newtagrelations.png)
+ * [`Tag Classification Resource`](https://ticapsoriginal.com/static/newtagrelations.png)
 
 # Worker work flow Tasks audit management: 
 
