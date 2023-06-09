@@ -460,6 +460,14 @@ Database Admin  side solve Feature implementation or issue if :
 
 ![](https://ticapsoriginal.com/static/world.png)
 
+# Starting Natural Language relations graphs:
+ 
+ * [`Python Nltk`](https://github.com/nltk/nltk) library
+ * Entity Relations
+ * Entropy Relations
+ * Affinity Relations
+ * [`Tag Resources`](https://ticapsoriginal.com/static/newtagrelations.png)
+
 # Worker work flow Tasks audit management: 
 
  * [`Worker work flow Tasks audit Seo on page report  `](https://ticapsoriginal.com/static/taskmaster.pdf)
