@@ -398,9 +398,9 @@ Database Admin  side solve Feature implementation or issue if :
 | DA | [ Domain Authority ] | [ 5 ]  | [ 7 ] ⬆️| [ 7 ]  ↔|
 | CF | [ Citation Flow ]   | [ 15 ] | [ 18  ] ⬆️| [ 18 ]  ↔|
 | PA | [ Page Authority ]   | [ 14 ] | [ 16  ] ⬆️| [  17 ]   ⬆️|
-| TB | [ Total Backlinks ]  | [ 136 ] | [ 187 ] ⬆️| [ 211 ]  ⬆️|
+| TB | [ Total Backlinks ]  | [ 136 ] | [ 187 ] ⬆️| [ 225 ]  ⬆️|
 | QB | [ Quality Backlink ] | [ 144 ] | [ 172 ] ⬆️| [ 175  ]  ⬆️|
-| PQ | [ Page Quality ]     | [ 93 % ] | [ 93 % ] ↔| [ 82 % ]  ⬇️|
+| PQ | [ Page Quality ]     | [ 93 % ] | [ 93 % ] ↔| [ 79 % ]  ⬇️|
 | MT | [ MozTrust ]         | [ 1/10 ] | [ 2/10 ] ⬆️| [ 2/10 ]  ↔|
 | SS | [ Spam Score ]       | [ 1 % ] | [ 1 % ] ↔| [ 1 % ]  ↔|
 | MR | [ MozRank ]          | [ 1.4 ] | [ 1.6 ] ⬆️| [ 1.6  ]  ↔|
@@ -409,7 +409,7 @@ Database Admin  side solve Feature implementation or issue if :
 | DF | [ Do Follow ]     | [ 17 k ] | [ 19 k ] ⬆️| [ 19 k ]  ↔|
 | NF | [ No Follow ]     | [ 17 k ] | [ 19 k ] ⬆️| [ 19 k  ]  ↔|
 | SB | [ (PA*0.6+DA*0.6)/10]     | [ 1.14 ] | [ 1.38 ] ⬆️| [ 1.44 ]  ↔|
-| $$ | [ [`Worth Value `](https://sitesprice.org/cost/ticapsoriginal.com)]     | [ 60 $ ] | [ 580 $ + ] ⬆️| [ 414,43 $ + ] ⬇️  |
+| $$ | [ [`Worth Value `](https://sitesprice.org/cost/ticapsoriginal.com)]     | [ 60 $ ] | [ 580 $ + ] ⬆️| [ 844,53 $ + ] ⬆️  |
 | -- | [ Engines Pages Indexation ] | [ 2K+ ] | [ 6K+ ] ⬆️| [ 11.5K+ ] ⬆️|
 
 # Goals :
