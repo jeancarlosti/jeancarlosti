@@ -409,14 +409,14 @@ Database Admin  side solve Feature implementation or issue if :
 | DF | [ Do Follow ]     | [ 17 k ] | [ 19 k ] ⬆️| [ 19 k ]  ↔|
 | NF | [ No Follow ]     | [ 17 k ] | [ 19 k ] ⬆️| [ 19 k  ]  ↔|
 | SB | [ (PA*0.6+DA*0.6)/10]     | [ 1.14 ] | [ 1.38 ] ⬆️| [ 1.44 ]  ↔|
-| $$ | [ [`Worth Value `](https://sitesprice.org/cost/ticapsoriginal.com)]     | [ 60 $ ] | [ 580 $ + ] ⬆️| [ 844,53 $ + ] ⬆️  |
+| $$ | [ [`Worth Value `](https://sitesprice.org/cost/ticapsoriginal.com)]     | [ 60 $ ] | [ 580 $ + ] ⬆️| [ 1024,80 $ + ] ⬆️  |
 | -- | [ Engines Pages Indexation ] | [ 2K+ ] | [ 6K+ ] ⬆️| [ 11.5K+ ] ⬆️|
 
 # Goals :
 
 | Goal| Description | bronze 🥉| silver 🥈| gold 🥇| Status|
 | -- | --------------------- | ------- | ------- | ------- |------- |
-| Growth strategist |  Website worth value |  100 $  |  1000 $  |  10000 $   |🥉 |
+| Growth strategist |  Website worth value |  100 $  |  1000 $  |  10000 $   | 🥈 |
 | Link mastering|  Total Links    |  1M  |  2M   |  5M   |🥈 |
 | Networking Pages |  Intelectual Knowhow   |  3k  |  4k  |  5K  |🥉 |
 | 10 + Engine masterig |  Indexed Pages   |  5K  |  10k  |  15K    |🥈 |
