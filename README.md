@@ -412,6 +412,29 @@ Database Admin  side solve Feature implementation or issue if :
 | $$ | [ [`Worth Value `](https://sitesprice.org/cost/ticapsoriginal.com)]     | [ 60 $ ] | [ 580 $ + ] ⬆️| [ 1024,80 $ + ] ⬆️  |
 | -- | [ Engines Pages Indexation ] | [ 2K+ ] | [ 6K+ ] ⬆️| [ 11.5K+ ] ⬆️|
 
+
+
+# Domain Classification Q3  2023:
+
+| Rule Code | Description | Values October | Values November| Values December|
+| -- | --------------------- | ------- | ------- | ------- |
+| DA | [ Domain Authority ] | [ ]  | [  ] | [ ]  |
+| CF | [ Citation Flow ]   | [  ] | [   ] | [  ]  |
+| PA | [ Page Authority ]   | [ ] | [   ] | [  ]   |
+| TB | [ Total Backlinks ]  | [  ] | [  ] | [  ]  |
+| QB | [ Quality Backlink ] | [  ] | [  ] | [   ]  |
+| PQ | [ Page Quality ]     | [  ] | [  ] | [ ]  |
+| MT | [ MozTrust ]         | [  ] | [  ] | [  ]  |
+| SS | [ Spam Score ]       | [  ] | [ ] | [  ]  |
+| MR | [ MozRank ]          | [ ] | [  ] | [   ]  |
+| OS | [ On, Off Page ]     | [  ] | [  ] | [  ]  |
+| BL | [ Back Links ]     | [ ] | [ ] | [  ]  |
+| DF | [ Do Follow ]     | [ ] | [  ] | [  ]  |
+| NF | [ No Follow ]     | [ ] | [  ] | [   ]  |
+| SB | [ (PA*0.6+DA*0.6)/10]     | [ ] | [  ]  [  ]  |
+| $$ | [ [`Worth Value `](https://sitesprice.org/cost/ticapsoriginal.com)]     | [ 1024,80 $] | [  ] | [  ]   |
+| -- | [ Engines Pages Indexation ] | [ ] | [  ] | [  ] |
+
 # Goals :
 
 | Goal| Description | bronze 🥉| silver 🥈| gold 🥇| Status|
@@ -446,6 +469,10 @@ Database Admin  side solve Feature implementation or issue if :
 
 * expected more user engagement
 * expected better user visual experience
+
+# Ticapsoriginal Site ahrefs 5K audit report :
+
+![](https://ticapsoriginal.com/static/ahrefsoctober.png)
 
 
 # Ticapsoriginal Monetization Model Projection :
