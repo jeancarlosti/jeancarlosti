@@ -414,18 +414,18 @@ Database Admin  side solve Feature implementation or issue if :
 
 
 
-# Domain Classification Q3  2023:
+# Domain Classification Q4  2023:
 
 | Rule Code | Description | Values October | Values November| Values December|
 | -- | --------------------- | ------- | ------- | ------- |
-| DA | [ Domain Authority ] | [ ]  | [  ] | [ ]  |
+| DA | [ Domain Authority ] | [ 6 ]  | [  ] | [ ]  |
 | CF | [ Citation Flow ]   | [  ] | [   ] | [  ]  |
-| PA | [ Page Authority ]   | [ ] | [   ] | [  ]   |
-| TB | [ Total Backlinks ]  | [  ] | [  ] | [  ]  |
+| PA | [ Page Authority ]   | [ 19 ] | [   ] | [  ]   |
+| TB | [ Total Backlinks ]  | [ 2k ] | [  ] | [  ]  |
 | QB | [ Quality Backlink ] | [  ] | [  ] | [   ]  |
 | PQ | [ Page Quality ]     | [  ] | [  ] | [ ]  |
-| MT | [ MozTrust ]         | [  ] | [  ] | [  ]  |
-| SS | [ Spam Score ]       | [  ] | [ ] | [  ]  |
+| MT | [ MozTrust ]         | [ 2 ] | [  ] | [  ]  |
+| SS | [ Spam Score ]       | [ 1% ] | [ ] | [  ]  |
 | MR | [ MozRank ]          | [ ] | [  ] | [   ]  |
 | OS | [ On, Off Page ]     | [  ] | [  ] | [  ]  |
 | BL | [ Back Links ]     | [ ] | [ ] | [  ]  |
