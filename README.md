@@ -444,7 +444,7 @@ Database Admin  side solve Feature implementation or issue if :
 | Networking Pages |  Intelectual Knowhow   |  3k  |  4k  |  5K  |🥉 |
 | 10 + Engine masterig |  Indexed Pages   |  5K  |  10k  |  15K    |🥈 |
 | Seo Especialist |  Seo Score  |  80  |  90  |  100    |🥈 |
-| SB mastering |  SB Score  |  2  |  3  |   5   | |
+| SB mastering |  SB Score  |  2  |  3  |   5   |🥉 |
 | i18n mastering |  i18 Coverage  |  50%  |  80%  |  100%    |🥈 |
 | Range mastering |  Software range  |  web  |  web + android  |  web + android + ios  |🥉 |
 
