@@ -421,7 +421,7 @@ Database Admin  side solve Feature implementation or issue if :
 | DA | [ Domain Authority ] | [ 6 ]  | [  ] | [ ]  |
 | CF | [ Citation Flow ]   | [  ] | [   ] | [  ]  |
 | PA | [ Page Authority ]   | [ 19 ] | [   ] | [  ]   |
-| TB | [ Total Backlinks ]  | [ 8k ] | [  ] | [  ]  |
+| TB | [ Total Backlinks ]  | [ 11k ] | [  ] | [  ]  |
 | QB | [ Quality Backlink ] | [  ] | [  ] | [   ]  |
 | PQ | [ Page Quality ]     | [  ] | [  ] | [ ]  |
 | MT | [ MozTrust ]         | [ 2 ] | [  ] | [  ]  |
