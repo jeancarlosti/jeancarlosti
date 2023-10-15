@@ -448,6 +448,9 @@ Database Admin  side solve Feature implementation or issue if :
 | i18n mastering |  i18 Coverage  |  50%  |  80%  |  100%    |🥈 |
 | Range mastering |  Software range  |  web  |  web + android  |  web + android + ios  |🥉 |
 
+## Marketing Ops
+* [`Marketing Mind`](https://gitmind.com/app/docs/mhyf2ysz) 
+
 
 ## Ticapsoriginal Basic Mobile development ( will not be used ) : 
 
