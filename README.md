@@ -518,6 +518,10 @@ Database Admin  side solve Feature implementation or issue if :
  * [`Ticapsoriginal podcast on  Google Podcasts`](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9lMzExYjU3OC9wb2RjYXN0L3Jzcw)
  * [`Ticapsoriginal podcast on  Radio Public`](https://radiopublic.com/ticapsoriginal-6pvD2L/episodes)
 
+# Ticapsoriginal Multisector Medium ( Brasilian Portuguese ) : 
+
+ * [`Ticapsoriginal Multisector Medium`](https://medium.com/@Ticapsoriginalbr)
+
 
 # Want to support the growth of Ticapsoriginal ?
 
