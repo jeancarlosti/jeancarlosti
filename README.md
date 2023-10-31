@@ -509,7 +509,11 @@ Database Admin  side solve Feature implementation or issue if :
  * Worker work flow Tasks security (not accounted for)
  * Worker work flow Tasks datamining (not accounted for)
  * Worker work flow Tasks socialmedia (not accounted for)
- * Worker work flow Tasks administration (not accounted for) 
+ * Worker work flow Tasks administration (not accounted for)
+
+# Ticapsoriginal Wikipedia temporary link: 
+
+ * [`Wikipedia Ticapsoriginal `](https://en.wikipedia.org/w/index.php?title=User:Jean_Tinoco/Ticapsoriginal&oldid=1176084584)
 
 # Ticapsoriginal Podcast Channel ( Brasilian Portuguese ) : 
 
