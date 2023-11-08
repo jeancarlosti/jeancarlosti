@@ -117,7 +117,7 @@
 - [x] [`Dns full global range propagation and maintenance`](https://www.whatsmydns.net/#A/ticapsoriginal.com)
 - [x] Make setenforce rules
 - [x] Find and catalog cves 
-
+- [x] Enable and monitoring tracks [`Segment track`](https://github.com/Tinoco/Ticapsoriginal_enable_segment_tracking/tree/main) 
 
 ### Tester
 
