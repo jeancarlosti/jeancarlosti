@@ -1,4 +1,8 @@
 ## Tinoco : Developer | Product Manager Owner  🧢
+
+### Stack:
+![stack](https://desembo.la/j/teteck.png)
+
   
 ### Skills:
 
