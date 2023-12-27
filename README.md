@@ -389,9 +389,9 @@ Database Admin  side solve Feature implementation or issue if :
 # Infra Ressourse
 
 * VPS III
-  * 4 cores
-  * 4 gb ram
-  * 120 gb storage
+  * 6 cores
+  * 8 gb ram
+  * 170 gb storage
 
 * 5 virtual workers gunicorn (  suggested number of workers is (2*CPU)+1 )
 
@@ -435,7 +435,7 @@ Database Admin  side solve Feature implementation or issue if :
 | BL | [ Back Links ]     | [ ] | [ ] | [  ]  |
 | DF | [ Do Follow ]     | [ ] | [  ] | [  ]  |
 | NF | [ No Follow ]     | [ ] | [  ] | [   ]  |
-| SB | [ (PA*0.6+DA*0.6)/10]     | [ ] | [  ]  [  ]  |
+| SB | [ (PA*0.6+DA*0.6)/10]     | [ ] | [  ] | [  ]  |
 | $$ | [ [`Worth Value `](https://sitesprice.org/cost/ticapsoriginal.com)]     | [ 2310,22 $ ] | [  ] | [  ]   |
 | -- | [ Engines Pages Indexation ] | [ ] | [  ] | [  ] |
 
@@ -529,11 +529,5 @@ Database Admin  side solve Feature implementation or issue if :
 # Ticapsoriginal Multisector Medium ( Brasilian Portuguese ) : 
 
  * [`Ticapsoriginal Multisector Medium`](https://medium.com/@Ticapsoriginalbr)
-
-
-# Want to support the growth of Ticapsoriginal ?
-
-[`Buy Ticapsoriginal a happiness with stripe `](https://www.buymeacoffee.com/ticapsoriginal) 
-[`Improve Ticapsoriginal growth with paypal `](https://www.paypal.com/donate/?hosted_button_id=HAPS7PD5JCCTA)
 
 ---------------------------------------------//-------------------------------------------
