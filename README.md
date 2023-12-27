@@ -436,7 +436,7 @@ Database Admin  side solve Feature implementation or issue if :
 | DF | [ Do Follow ]     | [ ] | [  ] | [  ]  |
 | NF | [ No Follow ]     | [ ] | [  ] | [   ]  |
 | SB | [ (PA*0.6+DA*0.6)/10]     | [ ] | [  ]  [  ]  |
-| $$ | [ [`Worth Value `](https://sitesprice.org/cost/ticapsoriginal.com)]     | [ 1795,89 $ ] | [  ] | [  ]   |
+| $$ | [ [`Worth Value `](https://sitesprice.org/cost/ticapsoriginal.com)]     | [ 2310,22 $ ] | [  ] | [  ]   |
 | -- | [ Engines Pages Indexation ] | [ ] | [  ] | [  ] |
 
 # Goals :
