@@ -1,7 +1,7 @@
 ## Tinoco : Developer | Product Manager Owner  🧢
 
 ### Stack:
-![stack](https://desembo.la/j/teteck.png)
+![stack](https://ticapsoriginal.com/static/teteck.png)
 
   
 ### Skills:
@@ -418,11 +418,11 @@ Database Admin  side solve Feature implementation or issue if :
 
 
 
-# Domain Classification Q4  2023:
+# Domain Classification Q1  2024:
 
 | Rule Code | Description | Values October | Values November| Values December|
 | -- | --------------------- | ------- | ------- | ------- |
-| DA | [ Domain Authority ] | [ 6 ]  | [  ] | [ ]  |
+| DA | [ Domain Authority ] | [ 5 ]  | [  ] | [ ]  |
 | CF | [ Citation Flow ]   | [  ] | [   ] | [  ]  |
 | PA | [ Page Authority ]   | [ 19 ] | [   ] | [  ]   |
 | TB | [ Total Backlinks ]  | [ 13k ] | [  ] | [  ]  |
@@ -436,7 +436,7 @@ Database Admin  side solve Feature implementation or issue if :
 | DF | [ Do Follow ]     | [ ] | [  ] | [  ]  |
 | NF | [ No Follow ]     | [ ] | [  ] | [   ]  |
 | SB | [ (PA*0.6+DA*0.6)/10]     | [ ] | [  ] | [  ]  |
-| $$ | [ [`Worth Value `](https://sitesprice.org/cost/ticapsoriginal.com)]     | [ 2310,22 $ ] | [  ] | [  ]   |
+| $$ | [ [`Worth Value `](https://sitesprice.org/cost/ticapsoriginal.com)]     | [ 2766,22 $ ] | [  ] | [  ]   |
 | -- | [ Engines Pages Indexation ] | [ ] | [  ] | [  ] |
 
 # Goals :
