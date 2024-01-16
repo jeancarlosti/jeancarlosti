@@ -420,7 +420,7 @@ Database Admin  side solve Feature implementation or issue if :
 
 # Domain Classification Q1  2024:
 
-| Rule Code | Description | Values October | Values November| Values December|
+| Rule Code | Description | Values January | Values February| Values March|
 | -- | --------------------- | ------- | ------- | ------- |
 | DA | [ Domain Authority ] | [ 5 ]  | [  ] | [ ]  |
 | CF | [ Citation Flow ]   | [  ] | [   ] | [  ]  |
