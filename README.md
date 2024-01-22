@@ -455,7 +455,9 @@ Database Admin  side solve Feature implementation or issue if :
 ## Marketing Ops
 * [`Marketing Mind`](https://gitmind.com/app/docs/mhyf2ysz) 
 
-
+## January 2024 - Started test Dynamic Search implementation
+* [`Dynamic Search`](https://ticapsoriginal.com/j/p/)
+   
 ## Ticapsoriginal Basic Mobile development ( will not be used ) : 
 
 * Tested [`flutter webview`](https://pub.dev/packages/webview_flutter) 
