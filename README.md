@@ -1,3 +1,4 @@
+
 ## Tinoco : Developer | Product Manager Owner  🧢
 
 ### Stack:
@@ -440,18 +441,15 @@ Database Admin  side solve Feature implementation or issue if :
 | $$ | [ [`Worth of Twitter profile `](https://tweethunter.io/how-much-your-twitter-is-worth)]     | [ 2777,00 $ ] | [  ] | [  ]   |
 | -- | [ Engines Pages Indexation ] | [ ] | [  ] | [  ] |
 
-# Goals :
+# Domain Conquest Q3  2024:
 
-| Goal| Description | bronze 🥉| silver 🥈| gold 🥇| Status|
-| -- | --------------------- | ------- | ------- | ------- |------- |
-| Growth strategist |  Website worth value |  100 $  |  1000 $  |  10000 $   | 🥈 |
-| Link mastering|  Total Links    |  1M  |  2M   |  5M   |🥈 |
-| Networking Pages |  Intelectual Knowhow   |  3k  |  4k  |  5K  |🥉 |
-| 10 + Engine masterig |  Indexed Pages   |  5K  |  10k  |  15K    |🥈 |
-| Seo Especialist |  Seo Score  |  80  |  90  |  100    |🥈 |
-| SB mastering |  SB Score  |  2  |  3  |   5   |🥉 |
-| i18n mastering |  i18 Coverage  |  50%  |  80%  |  100%    |🥈 |
-| Range mastering |  Software range  |  web  |  web + android  |  web + android + ios  |🥉 |
+Business worth value Masterfull 
+
+ ## [ [`Worth Value `](https://sitesprice.org/cost/ticapsoriginal.com)] **$ 43455,54**  🏆
+
+
+
+
 
 ## Marketing Ops
 * [`Marketing Mind`](https://gitmind.com/app/docs/mhyf2ysz) 
