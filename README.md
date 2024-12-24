@@ -45,7 +45,7 @@ personal brasilian website portfolio
 
 ## Cli command-line configuration
 
-Configured [`bash`](https://www.gnu.org/software/bash/)  Shell  and  Zsh  [`shortcuts and alias files`](https://github.com/jeancarlosti/Ticapsoriginal_zshrc_shortcuts)
+Configured [`bash`](https://www.gnu.org/software/bash/)  Shell  and  Zsh  [`shortcuts and alias files`](https://github.com/jeancarlosti/readtimepro_zshrc_shortcuts)
 
 
 # Development Process
