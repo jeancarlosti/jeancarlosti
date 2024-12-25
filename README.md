@@ -64,12 +64,10 @@ Sprints based on priority first :
 
 2 - [ Collect Data ] . [ Test ] . [ Produce value ]  ---> First Collect Data
 
+## Context and Problem Statement
+Many features can be solved in Front End side, Back End Side, Server Side, Database Admin side. Sprint and context define if Back End side solve or not it. 
 
 # Frontend management
-
-
-## Context and Problem Statement
-Many features can be solved in Front End side, Back End Side, Server Side, Database Admin side. Sprint and context define if Front side solve or not it. 
 
 ## Suggested Solution
 Front End side solve Feature implementation or issue if :
@@ -83,10 +81,6 @@ Front End side solve Feature implementation or issue if :
 * Improve Crawling operations
 
 # Back End management
-
-
-## Context and Problem Statement
-Many features can be solved in Front End side, Back End Side, Server Side, Database Admin side. Sprint and context define if Back End side solve or not it. 
 
 ## Suggested Solution
 Back End side solve Feature implementation or issue if :
@@ -104,11 +98,6 @@ Back End side solve Feature implementation or issue if :
 
 
 # Data Base management
-
-
-
-## Context and Problem Statement
-Many features can be solved in Front End side, Back End Side, Server Side, Database Admin side. Sprint and context define if Back End side solve or not it. 
 
 ## Suggested Solution
 Database Admin  side solve Feature implementation or issue if :
@@ -128,9 +117,11 @@ Database Admin  side solve Feature implementation or issue if :
 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=plastic&logo=swift&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=plastic&logo=ruby&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=plastic&logo=chart.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=plastic&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white)
 
-![](https://github-readme-stats.vercel.app/api?username=jeancarlosti&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=jeancarlosti&show_icons=true&theme=onedark)<br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeancarlosti&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jeancarlosti&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jeancarlosti&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 
 ![](https://github-trophies.vercel.app/?username=jeancarlosti&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
