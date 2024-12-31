@@ -19,13 +19,13 @@ it professional networking with 3000 it services and companies
 personal brasilian website portfolio
 
 ## SaaS:
-* [` free TSL security checker`](https://readtime.pro/check-security/)
+* [`free TSL security checker`](https://readtime.pro/check-security/)
 Check your SSL certificate.TSL SSL checker can help us with one click
-* [` free markdown to pdf `](https://readtime.pro/markdown-to-pdf/)
+* [`free markdown to pdf`](https://readtime.pro/markdown-to-pdf/)
 Turn markdown to pdf. Just edit your text and with one click convert md to pdf 
-* [`free sitemaps xml to txt/`](https://readtime.pro/sitemaps-to-txt/)
+* [`free sitemaps xml to txt`](https://readtime.pro/sitemaps-to-txt/)
 Turn sitemaps xml to txt. Sitemaps to txt can help us with one click
-* [`free sitemaps txt to xml/`](https://readtime.pro/sitemaps-txt-to-xml/)
+* [`free sitemaps txt to xml`](https://readtime.pro/sitemaps-txt-to-xml/)
 Turn sitemaps txt to xml. Sitemaps xml contains more information and is essential for SEO operations
 
 ### Skills:
