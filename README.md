@@ -27,6 +27,8 @@ Turn markdown to pdf. Just edit your text and with one click convert md to pdf
 Turn sitemaps xml to txt. Sitemaps to txt can help us with one click
 * [`free sitemaps txt to xml`](https://readtime.pro/sitemaps-txt-to-xml/)
 Turn sitemaps txt to xml. Sitemaps xml contains more information and is essential for SEO operations
+* [`free url sentimental analytics`](https://readtime.pro/sentimental-analytics/)
+Sentimental analytics. Check how positive and negative the content on your page is.
 
 ### Skills:
 
