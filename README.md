@@ -29,8 +29,10 @@ Turn sitemaps xml to txt. Sitemaps to txt can help us with one click
 Turn sitemaps txt to xml. Sitemaps xml contains more information and is essential for SEO operations
 * [`free url sentimental analytics`](https://readtime.pro/sentimental-analytics/)
 Sentimental analytics. Check how positive and negative the content on your page is.
+* [`free url mail digger`](https://readtime.pro/url-mail-digger/)
+Url mail digger. Get mails from pages.Url mail digger can help us make a great mail list with one click
 
-### Skills:
+## Skills:
 
 *  it networking
 *  product building
