@@ -31,6 +31,8 @@ Turn sitemaps txt to xml. Sitemaps xml contains more information and is essentia
 Sentimental analytics. Check how positive and negative the content on your page is.
 * [`free url mail digger`](https://readtime.pro/url-mail-digger/)
 Url mail digger. Get mails from pages.Url mail digger can help us make a great mail list with one click
+* [`free url link digger`](https://readtime.pro/url-link-digger/)
+Url link digger. Get links from pages with one click
 
 ## Skills:
 
