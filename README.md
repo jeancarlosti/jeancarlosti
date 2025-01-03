@@ -33,6 +33,8 @@ Sentimental analytics. Check how positive and negative the content on your page 
 Url mail digger. Get mails from pages.Url mail digger can help us make a great mail list with one click
 * [`free url link digger`](https://readtime.pro/url-link-digger/)
 Url link digger. Get links from pages with one click
+* [`free url image digger`](https://readtime.pro/url-image-digger/)
+Url image digger. Get images from pages with one click
 
 ## Skills:
 
