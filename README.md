@@ -35,6 +35,8 @@ Url mail digger. Get mails from pages.Url mail digger can help us make a great m
 Url link digger. Get links from pages with one click
 * [`free url image digger`](https://readtime.pro/url-image-digger/)
 Url image digger. Get images from pages with one click
+* [`Url qrcode image generator`](https://readtime.pro/url-qrcode-generator/)
+Url qrcode image generator. Generate qrcode image from urls with one click
 
 ## Skills:
 
