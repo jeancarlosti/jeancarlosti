@@ -37,6 +37,8 @@ Url link digger. Get links from pages with one click
 Url image digger. Get images from pages with one click
 * [`free url qrcode image generator`](https://readtime.pro/url-qrcode-generator/)
 Url qrcode image generator. Generate qrcode image from urls with one click
+* [`free url reading time`](https://readtime.pro/url-reading-time/)
+Url reading time. calculate the average reading time of web page content 
 
 ## Skills:
 
