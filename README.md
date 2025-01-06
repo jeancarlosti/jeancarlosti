@@ -41,6 +41,8 @@ Url qrcode image generator. Generate qrcode image from urls with one click
 Url reading time. calculate the average reading time of web page content
 * [`free most common words finder`](https://readtime.pro/url-most-common-words/)
 Url most common words - find most common words of web page content with one click
+* [`free html structs counter`](https://readtime.pro/url-html-struct-counter/)
+Url html structs counter - simple way to counter html structs like h1,h2 ...h6, a , tr, span
 
 ## Skills:
 
