@@ -43,6 +43,8 @@ Url reading time. calculate the average reading time of web page content
 Url most common words - find most common words of web page content with one click
 * [`free html structs counter`](https://readtime.pro/url-html-struct-counter/)
 Url html structs counter - simple way to counter html structs like h1,h2 ...h6, a , tr, span
+* [`free share buttons builder`](https://readtime.pro/url-share-builder/)
+Url share buttons builder - simple way to generate 7 share buttons from your url 
 
 ## Skills:
 
